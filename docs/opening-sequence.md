@@ -6,7 +6,7 @@
 
 - Introduce the three leads (Kanga, Maggie, Hopper) and the wombat as a "and friends" beat, in that order of importance.
 - Plant the series brand device: the glowing gold pouch. The opener should end on it.
-- Run 15 to 20 seconds for YouTube. Anything longer gets skipped. Also cut a 5 second bumper and a 3 second sonic logo for Shorts.
+- Run 15 to 20 seconds for YouTube, stretching to about 25 if a coin gag needs the room. Each character's coin gag must complete on screen; never cut one short to hit the target. Also cut a 5 second bumper and a 3 second sonic logo for Shorts.
 - Contain no spoken lesson. It is pure character and energy. The lesson lives in the episode.
 - Work with the sound off. The title must land as a picture.
 
