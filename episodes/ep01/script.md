@@ -1,6 +1,6 @@
 # Episode 1 — "The Pouch"
 
-**Series:** Working title TBD
+**Series:** Money Tails
 **Core concept:** Pay yourself first / the emergency fund
 **Supporting idea:** Buy Now Pay Later ties up future money
 **Runtime target:** 6:00

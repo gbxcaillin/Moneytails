@@ -1,5 +1,7 @@
 # Series Bible
 
+**Series title:** Money Tails. Brand, opener, music and type proposals live in `docs/opening-sequence.md` until locked.
+
 ## Curriculum (teaching order, Australia-adapted)
 
 ### Foundations

@@ -1,4 +1,4 @@
-# Project: Australian Financial Literacy Cartoon Series (working title TBD)
+# Project: Money Tails (Australian financial literacy cartoon series)
 
 ## What this is
 A YouTube cartoon series using AI-generated animated videos of anthropomorphic animals to teach financial skills to kids, young adults and adults simultaneously, via layered writing (kids follow the story, young adults get product-level detail, adults get targets and strategy).
@@ -30,6 +30,7 @@ A YouTube cartoon series using AI-generated animated videos of anthropomorphic a
 
 ## Key files
 - docs/series-bible.md — full curriculum and character roster
+- docs/opening-sequence.md — title sequence, theme music, typography and colour brief (proposals, not yet locked)
 - docs/workflow.md — OpenArt pipeline, model selections, prompting conventions
 - episodes/ep01/ — script + generation prompts
 - prompts/style-string.txt — the global style string, paste-identical everywhere

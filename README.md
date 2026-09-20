@@ -1,4 +1,6 @@
-# Australian Financial Literacy Cartoon Series
+# Money Tails
+
+Australian financial literacy cartoon series.
 
 AI-animated animal characters teaching financial skills to Australian audiences (kids through adults) on YouTube.
 
@@ -6,6 +8,7 @@ AI-animated animal characters teaching financial skills to Australian audiences 
 - `CLAUDE.md` — project context, constraints and episode format (Claude Code reads this automatically)
 - `docs/series-bible.md` — full curriculum and character roster
 - `docs/workflow.md` — OpenArt production pipeline and model decisions
+- `docs/opening-sequence.md` — opening sequence, theme music, fonts and colour proposals
 - `episodes/ep01/` — Episode 1 "The Pouch": script + OpenArt prompt pack
 - `prompts/` — global style string and negative prompt (paste-identical everywhere)
 - `assets/series/` — approved series-level character art (Kanga hero still, turnarounds, test clips)
