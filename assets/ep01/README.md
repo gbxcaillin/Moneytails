@@ -51,5 +51,18 @@ Method: one Seedance 2.5 element2video job per 30 s chunk, script-style prompt w
 |---|---|---|---|---|
 | 02, shot 1, Maggie at the window | `clips/clip02-maggie-window-480p.mp4` | `gLa8p9bnzphqb8mMv7sb` | 5 s, 480p, 300 credits. Refs: Maggie, ENV1, Kanga voice. | Pass. Every beat in the prompt is on screen in order: face flat on the glass with star-glint eyes, pull back, frantic wipe with the wing, face back on. Kanga's voice over runs under it. This is the proof that one complex event per clip is what the model wants. |
 | 01, shot 1, Maggie lands, Hopper on the bench | `clips/clip01-maggie-lands-hopper-bench-480p.mp4` | `HCWCP6Be5LclsfpEDvWr` | 5 s, 480p, 300 credits. Refs: Maggie, Hopper, ENV1, panel 1, Kanga voice. | Pass. Maggie swoops in, lands, skids, turns to the window; Hopper strums on the bench throughout. Two simple events, one wide setup, clean. Kanga VO "Two mates. One payday." |
+| 03 pouch title | `clips/clip03-pouch-title-480p.mp4` | `Cy4Ft4hypxJCvNXceGLk` | 4 s, 240 credits | Pass. Three coins drop, glow. |
+| 04 three phones | `clips/clip04-three-phones-480p.mp4` | `K7FRspb5E8xsabxsVeE4` | 4 s | Pass. Buzz left to right, banners pop. Still carries the grey frame from panel 3; make a borderless panel 3 before the 1080p pass, or crop. |
+| 05 Maggie payday | `clips/clip05-maggie-payday-480p.mp4` | `6asDMY8Hm3KCtHkRu1fA` | 4 s | Pass. Phone from the bag, leap with wings out. Maggie about 270 Hz. |
+| 06 Hopper phone | `clips/clip06-hopper-phone-480p.mp4` | `dI15x7t1HggOhqsf01OX` | 4 s, Hopper voice ref `assets/series/hopper/hopper-voice-ref-ep01c3.mp3` (upload `qj7nbjyaDfjcIgdphf3L`) | Pass. Sprawled, phone with two fingers, drops it on his chest. Hopper about 125 Hz, clearly below Kanga now. |
+| 07 Kanga one sec | `clips/clip07-kanga-one-sec-480p.mp4` | `8LzGSDqjhymp2PjgFB5f` | 4 s (3 s rejected, minimum is 4) | Pass. Finger up, half-smile. Kanga about 170 Hz. |
+| 08 transfer | `clips/clip08-transfer-480p.mp4` | `FcHO70BNgPPGacXySXT5` | 6 s | Pass. Coins pour from the plain tile into the pouch tile, fill line drops, real pouch glows in sync. No symbol on the tile this time. |
+| 09 breakfast | `clips/clip09-breakfast-480p.mp4` | `jj3fXcQTKBftCWvNfZ3q` | 4 s | Pass. Maggie and Hopper poke in from the edges around Kanga. |
+| 10 paid myself | `clips/clip10-paid-myself-480p.mp4` | `mj1N6HjEbCkAxfCFSdvO` | 5 s, both voice refs | Pass. Kanga about 160 Hz, Hopper about 115 Hz, phone into the vest pocket at the end. |
+| 11 Maggie counter | `clips/clip11-maggie-counter-480p.mp4` | `rgIhYvYTVCKBOowDlXIc` | 6 s | Pass. Orange bar sliced on each tap, ghost coins stacking to four. Dog shop assistant absent this time. |
+| 12 Hopper takeaway | `clips/clip12-hopper-takeaway-480p.mp4` | `OwTHHxtwyqeIA7jWyeYf` | 5 s | Pass. Chips, three coins on the counter, green bar shrinks to a sliver. |
+| 13 Kanga coffee | `clips/clip13-kanga-coffee-480p.mp4` | `DKEtvYg7GBRnI8C1XBxL` | 5 s | Pass. Purple bar loses a thin slice, gold pouch tile full beside it. She walks toward camera rather than left to right; fine. |
+
+Running assembly of clips 01 to 13 (script shots 1 to 5, about 1:02): `clips/ep01-clips01-13-assembled-480p.mp4`. Batch cost about 3,300 credits.
 
 Clips 01 and 02 cut together: `clips/clips01-02-assembled-480p.mp4` (10 s). Compare with the 8 s shot 1 inside `video/chunk01-draft-480p-v3.mp4`: same beats, but every beat is now legible and in order.
