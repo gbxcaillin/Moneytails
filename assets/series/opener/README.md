@@ -28,6 +28,8 @@ The single-shot flick gag failed three times on Kling (a second coin appeared ev
 
 Key stills live in `hopper-keyframes/` (S1 `WaWOTYQ0kKNg70L4lhRl`, S2 `mLysVBsmlWP6RpTFUjOf`, S3 close-up `T41cmZBmPUwEVJCzU9GA`, S3w `yJbLrwdYD7C7v1ilsX98`, S4 `aX9CqgNhPWj9sSqXyV05`). Seedance 2.0 single-shot comparison from S1, 6 s: `YDYuTkPJqqgFrgHlV5UP` (`hopper-shots/seedance-single-shot.mp4`). Verdict: the bounce off the hat never appears, the coin materialises in his hand, and the leap barely starts by 6 s. Not better than Kling; the pinned three-shot approach is the fix, not the model.
 
+`opener-rough-assembly.mp4` is a straight concatenation of every clip in order at 1280x720, untrimmed and silent, 39 s. It exists only to review flow; the real cut trims each clip to its action endpoint and lands at 22 to 25 s.
+
 ## Assembly order (editor)
 
 1. `00-coin-sting` with the coin chime on the first landing.
