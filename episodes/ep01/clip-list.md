@@ -55,4 +55,4 @@ One complex event (C) or two simple events (S+S) per clip. One camera setup, no 
 | 49 | 25 | End card, clean cream background, three soft chimes (text added in edit) | C | 8 s | ENV3 | none |
 | 50 | 26 | Maggie holds a credit card that has grown fangs | C | 5 s | Maggie, ENV1 | Kanga VO "Next time: Maggie gets a credit card. It goes about as well as you'd think." |
 
-50 clips, about 4:40 of rendered footage before the opener and the edit's holds. At 480p the whole list is about 10,000 credits; at 1080p about 45,000.
+50 clips, about 4:40 of rendered footage before the opener and the edit's holds. Quoted per second on Seedance 2.5: about 60 credits at 480p, about 320 at 1080p. About 280 s of clips comes to roughly 17,000 credits at 480p and roughly 90,000 at 1080p, list price, before retakes.

@@ -44,3 +44,12 @@ The OpenArt "animated series" assets folder is not reachable through the connect
 Running assembly of chunks 1 to 3: `video/ep01-draft-480p-chunks01-03.mp4` (1:26).
 
 Method: one Seedance 2.5 element2video job per 30 s chunk, script-style prompt with shot timings and dialogue, character sheets plus environment plate plus the storyboard panels for those shots as image references, and a voice reference audio clip per speaking lead. Draft every chunk at 480p, then re-render approved chunks at 1080p with the same prompt and references.
+
+## Clips (one event per clip, current method)
+
+| Clip | File | historyId | Settings | Verdict |
+|---|---|---|---|---|
+| 02, shot 1, Maggie at the window | `clips/clip02-maggie-window-480p.mp4` | `gLa8p9bnzphqb8mMv7sb` | 5 s, 480p, 300 credits. Refs: Maggie, ENV1, Kanga voice. | Pass. Every beat in the prompt is on screen in order: face flat on the glass with star-glint eyes, pull back, frantic wipe with the wing, face back on. Kanga's voice over runs under it. This is the proof that one complex event per clip is what the model wants. |
+| 01, shot 1, Maggie lands, Hopper on the bench | `clips/clip01-maggie-lands-hopper-bench-480p.mp4` | `HCWCP6Be5LclsfpEDvWr` | 5 s, 480p, 300 credits. Refs: Maggie, Hopper, ENV1, panel 1, Kanga voice. | Pass. Maggie swoops in, lands, skids, turns to the window; Hopper strums on the bench throughout. Two simple events, one wide setup, clean. Kanga VO "Two mates. One payday." |
+
+Clips 01 and 02 cut together: `clips/clips01-02-assembled-480p.mp4` (10 s). Compare with the 8 s shot 1 inside `video/chunk01-draft-480p-v3.mp4`: same beats, but every beat is now legible and in order.
