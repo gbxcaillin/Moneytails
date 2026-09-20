@@ -50,3 +50,7 @@ Round-5 additions to the rule: view the whole keyframe chain at full size before
 - HOPPER: Australian male, 20s, slow, relaxed drawl, surfer energy.
 - WOMBAT: Australian male, 40s, flat deadpan.
 - LANDLORD (V.O.): neutral, dull, bureaucratic.
+
+## Seedance 2.5 single pass (learned on the opener, round 6)
+
+For a sequence up to 30 s with several characters, one Seedance 2.5 element2video job with a script-style prompt (style block, character block with reference image numbers, audio block, then numbered shots with second ranges) beat five rounds of pinned single-action shots on every axis: continuity, motion quality, cost and time. Attach the character sheets, the environment plate and the logo as references in the order the prompt numbers them. 1080p, audio on. Reserve the pinned-keyframe method for a single prop hand-off that a one-pass render gets wrong.

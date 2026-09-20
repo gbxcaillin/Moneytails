@@ -1,6 +1,16 @@
 # Money Tails opener: "The Coin Trail" clips
 
-Round 5 (current). Rebuilt after the round-4 review: every character is now handled like Hopper, in short single-action shots pinned to a verified keyframe chain, with the coin's physical path spelled out in seconds. `opener-rough-assembly-r5.mp4` (56 s, silent) is the straight concat of the round-5 picks in order. Round-4 shots stay in `shots-veo/` for the beats that were not remade (Hopper insert and flick, wombat, group leap, title).
+## Round 6: single-pass Seedance 2.5 (current pick)
+
+`seedance/opener-seedance25-v1.mp4`, historyId `ghUVvja70AQbyyBQvY8Y`. Seedance 2.5 element2video, 30 s, 1080p, 16:9, audio on (ukulele and claps theme with coin chimes, no voice). Six references in this order: Kanga hero, Maggie sheet, Hopper sheet, Wombat sheet, main street plate, five-tail logo. The prompt is a nine-shot script with timings in `seedance/prompt-v1.md`. Cost 9,625 credits list (about 8,663 after the MCP discount).
+
+Verdict: pass, reviewed at one frame per second across the clip and four frames per second on the Maggie and Hopper beats. Catch, pouch close-up with glow, hop off, Maggie snatch and bag, Hopper hat bonk, pick up, flick and leap, wombat cap catch with the bear and bull behind, three-lead leap, sparkle into the exact five-tail title card, hold, fade to black. One coin at a time throughout. Character designs match the sheets. The OpenArt job record lists only two input references but the output plainly used all six, the title card is the logo pixel for pixel.
+
+Known nits for the edit: the coin re-enters from the top of frame between characters rather than travelling between them, which reads as the gag but is not a literal hand-off; the Kanga pouch close-up is a touch short; Hopper's coin sits on the hat brim for a beat before he picks it up. All fine for a v1 and editable.
+
+This supersedes the pinned-shot assembly below, which stays for reference and as fallback material.
+
+Round 5 (superseded by round 6). Rebuilt after the round-4 review: every character is now handled like Hopper, in short single-action shots pinned to a verified keyframe chain, with the coin's physical path spelled out in seconds. `opener-rough-assembly-r5.mp4` (56 s, silent) is the straight concat of the round-5 picks in order. Round-4 shots stay in `shots-veo/` for the beats that were not remade (Hopper insert and flick, wombat, group leap, title).
 
 ## Round 5 picks
 
