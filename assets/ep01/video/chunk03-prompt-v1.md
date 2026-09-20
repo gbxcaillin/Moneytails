@@ -1,0 +1,3 @@
+# EP01 chunk 3 (1:00 to 1:30), prompt v1
+
+Shots 6, 7 and 8. Shot 6 (0 to 6 s): the three balance cards as animated fill levels, red strip pulsing on Maggie's, Hopper's draining, Kanga's settled with the gold pouch card sliding up behind. Shot 7 (6 to 14 s): grey clouds roll over the street, three envelopes thunk into three letterboxes, landlord voice over. Shot 8 (14 to 30 s): roadside, scooter coughs and dies, wombat mechanic never looks up, blank clipboard, Hopper's line. No Kanga, so no voice reference. References: Hopper, Wombat, ENV4, storyboard panels 8, 9 and 10. 480p, 30 s. historyId `jdnvCeDRZdbzELiGa0Sc`.

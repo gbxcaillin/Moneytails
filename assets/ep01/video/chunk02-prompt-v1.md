@@ -1,0 +1,3 @@
+# EP01 chunk 2 (0:30 to 1:00), prompt v1
+
+Shots 4 and 5. Shot 4 (0 to 14 s): close on Kanga's phone, the transfer as coins pouring from one tile into a pouch-shaped tile, four lines of dialogue with Maggie and Hopper poking into frame. Shot 5 (14 to 30 s): the montage with the money made visible, a coloured balance bar over each character: Maggie's orange bar sliced by each tap with grey ghost coins stacking up (the Afterpay owing, no numbers), Hopper's green bar shrinking to a sliver, Kanga's purple bar losing a thin slice with the gold pouch tile full behind it. References: Kanga, Maggie, Hopper, storyboard panels 4, 5, 6 and 7, Kanga voice reference. 480p, 30 s. historyId `XVXZ1dgCzRyYm5CiZegB`.
