@@ -21,12 +21,12 @@ The single-shot flick gag failed three times on Kling (a second coin appeared ev
 
 | Shot | Angle | Start frame | End frame | Action | Length |
 |---|---|---|---|---|---|
-| 3A | Medium wide, bench left of frame | S1 strumming, no coin | S2 coin lying on bench, Hopper looking at it | Coin drops in, bounces off the hat, lands on the bench | 3 s, Kling `hFY7DVFFMy7kEWqz7YG1` |
+| 3A | Medium wide, bench left of frame | S1 strumming, no coin | S2 coin lying on bench, Hopper looking at it | Coin drops in, bounces off the hat, lands on the bench | 3 s, Kling `hFY7DVFFMy7kEWqz7YG1`. Pass: coin drops in at 1.8 s, hits the hat at 2.3 s, lies on the bench by 2.7 s, he looks down. One coin. `hopper-shots/3A-coin-bounce.mp4` |
 | 3B | Medium wide, same as 3A | S2 coin on bench | S3w coin held up, shrug | He picks the coin up off the bench and holds it up | 3 s, Kling `t3Y8tAWWwcqxI7Fc4mdI` |
-| 3B insert | Close-up, low three-quarter from the right | S3 close-up, coin in hand | none | He turns the coin, eyebrow, shrug. Optional cut-in for the angle change | 3 s, Kling `tWpBo6P1c59sTscT69y2` |
-| 3C | Medium wide, same as 3A | S3w wide, coin in hand ready to flick | S4 bench empty, Hopper mid-leap right, coin high | He flicks the coin up with the guitar neck and springs after it | 4 s, Kling `1aUqzEKR7gPO7qgtVu3j` |
+| 3B insert | Close-up, low three-quarter from the right | S3 close-up, coin in hand | none | He turns the coin, eyebrow, shrug. Optional cut-in for the angle change | 3 s, Kling `tWpBo6P1c59sTscT69y2`. Pass: coin stays in hand, he turns it and grins. `hopper-shots/3B-insert-closeup.mp4` |
+| 3C | Medium wide, same as 3A | S3w wide, coin in hand ready to flick | S4 bench empty, Hopper mid-leap right, coin high | He flicks the coin up with the guitar neck and springs after it | 4 s, Kling `1aUqzEKR7gPO7qgtVu3j`. Pass: flick at 1.0 s, coin high by 1.8 s, leap from 2.4 s, bench empty, one coin. `hopper-shots/3C-flick-leap.mp4` |
 
-Key stills live in `hopper-keyframes/` (S1 `WaWOTYQ0kKNg70L4lhRl`, S2 `mLysVBsmlWP6RpTFUjOf`, S3 close-up `T41cmZBmPUwEVJCzU9GA`, S3w `yJbLrwdYD7C7v1ilsX98`, S4 `aX9CqgNhPWj9sSqXyV05`). Seedance 2.0 single-shot comparison from S1, 6 s: `YDYuTkPJqqgFrgHlV5UP`.
+Key stills live in `hopper-keyframes/` (S1 `WaWOTYQ0kKNg70L4lhRl`, S2 `mLysVBsmlWP6RpTFUjOf`, S3 close-up `T41cmZBmPUwEVJCzU9GA`, S3w `yJbLrwdYD7C7v1ilsX98`, S4 `aX9CqgNhPWj9sSqXyV05`). Seedance 2.0 single-shot comparison from S1, 6 s: `YDYuTkPJqqgFrgHlV5UP` (`hopper-shots/seedance-single-shot.mp4`). Verdict: the bounce off the hat never appears, the coin materialises in his hand, and the leap barely starts by 6 s. Not better than Kling; the pinned three-shot approach is the fix, not the model.
 
 ## Assembly order (editor)
 
