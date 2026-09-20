@@ -98,11 +98,11 @@ Every episode carries three layers, one or two lines each, never dumbed down:
 
 ## Screen time rule: the idea gets the frame
 
-Every shot has to earn its seconds by moving the episode's one concept forward. Character business (a swoop, a strum, a hop, a spin) is seasoning, not the meal.
+Every shot has to earn its seconds. Character business is welcome when it does a job; it is cut when it only fills time.
 
-- **Filler shots are short.** A character beat that exists only to show personality runs 2 to 4 seconds, never longer. If a character is still performing after the point has landed, cut.
+- **Filler shots are short.** A character beat that exists only to fill space runs 2 to 4 seconds, never longer. If a character is still performing after the point has landed, cut.
 - **The concept gets the screen.** Most of the imagery in an episode should be the idea itself made visible: money moving between accounts, the pouch filling or draining, a pay packet being sliced, a bill arriving, a balance going up or down, the explainer space. Aim for roughly two thirds of the runtime on concept imagery and one third on character and story connective tissue.
-- **Explore, do not perform.** When a beat can be either a gag or a picture of how the idea works, pick the picture. Show the mechanism, then let a character react to it in a line or a look. Gags that do not carry information are the first thing to trim when an episode runs long.
-- **One gag per act at most**, and it should be the kind that teaches something (the credit card that grows fangs says more about interest than a pratfall does).
+- **Gags are allowed, and there is no quota, but every gag must pass one of two tests.** Either it develops a character's idiosyncrasy (Maggie cannot walk past anything shiny, Hopper treats every problem as a song, the wombat never looks up from the job), or it is about the theme of the episode (the credit card that grows fangs, the pouch that hums when it is full, the bill that arrives as a wave). A gag that does neither is killing time and comes out first when the episode runs long.
+- **Explore, do not perform.** When a beat can be either a gag or a picture of how the idea works, pick the picture, then let a character react to it in a line or a look. The best gags are both: the joke is the mechanism.
 - **Movement is still required.** Short does not mean static. Every shot keeps something moving, but the movement should be the money, the numbers, the transfer, the chart, the object, with the characters reacting rather than mugging.
-- **Test for every shot in a script:** if this shot were cut, would a viewer understand the lesson less well? If the answer is no, shorten it or cut it.
+- **Test for every shot in a script:** if this shot were cut, would a viewer understand the lesson less well, or know a character less well? If the answer to both is no, shorten it or cut it.
