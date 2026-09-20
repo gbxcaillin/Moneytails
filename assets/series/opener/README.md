@@ -21,11 +21,12 @@ The single-shot flick gag failed three times on Kling (a second coin appeared ev
 
 | Shot | Angle | Start frame | End frame | Action | Length |
 |---|---|---|---|---|---|
-| 3A | Medium wide, bench left of frame | S1 strumming, no coin | S2 coin lying on bench, Hopper looking at it | Coin drops in, bounces off the hat, lands on the bench | 3 s |
-| 3B | Close-up, low three-quarter from the right | S2 (as start) | S3 coin held up between two fingers, shrug | He picks the coin up off the bench and holds it up | 3 s |
-| 3C | Medium wide, same as 3A | S3w wide, coin in hand ready to flick | S4 bench empty, Hopper mid-leap right, coin high | He flicks the coin up with the guitar neck and springs after it | 4 s |
+| 3A | Medium wide, bench left of frame | S1 strumming, no coin | S2 coin lying on bench, Hopper looking at it | Coin drops in, bounces off the hat, lands on the bench | 3 s, Kling `hFY7DVFFMy7kEWqz7YG1` |
+| 3B | Medium wide, same as 3A | S2 coin on bench | S3w coin held up, shrug | He picks the coin up off the bench and holds it up | 3 s, Kling `t3Y8tAWWwcqxI7Fc4mdI` |
+| 3B insert | Close-up, low three-quarter from the right | S3 close-up, coin in hand | none | He turns the coin, eyebrow, shrug. Optional cut-in for the angle change | 3 s, Kling `tWpBo6P1c59sTscT69y2` |
+| 3C | Medium wide, same as 3A | S3w wide, coin in hand ready to flick | S4 bench empty, Hopper mid-leap right, coin high | He flicks the coin up with the guitar neck and springs after it | 4 s, Kling `1aUqzEKR7gPO7qgtVu3j` |
 
-Key stills live in `hopper-keyframes/`. A second model (Seedance 2.0) is being run on the single-shot version from S1 as a comparison.
+Key stills live in `hopper-keyframes/` (S1 `WaWOTYQ0kKNg70L4lhRl`, S2 `mLysVBsmlWP6RpTFUjOf`, S3 close-up `T41cmZBmPUwEVJCzU9GA`, S3w `yJbLrwdYD7C7v1ilsX98`, S4 `aX9CqgNhPWj9sSqXyV05`). Seedance 2.0 single-shot comparison from S1, 6 s: `YDYuTkPJqqgFrgHlV5UP`.
 
 ## Assembly order (editor)
 
