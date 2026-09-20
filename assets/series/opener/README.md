@@ -27,6 +27,20 @@ The single-shot flick gag failed three times on Kling (a second coin appeared ev
 
 Key stills live in `hopper-keyframes/` (S1 `WaWOTYQ0kKNg70L4lhRl`, S2 `mLysVBsmlWP6RpTFUjOf`, S3 close-up `T41cmZBmPUwEVJCzU9GA`, S3w `yJbLrwdYD7C7v1ilsX98`, S4 `aX9CqgNhPWj9sSqXyV05`). Seedance 2.0 single-shot comparison from S1, 6 s: `YDYuTkPJqqgFrgHlV5UP` (`hopper-shots/seedance-single-shot.mp4`). Verdict: the bounce off the hat never appears, the coin materialises in his hand, and the leap barely starts by 6 s. Not better than Kling; the pinned three-shot approach is the fix, not the model.
 
+## Model head-to-head (round 4)
+
+Kling's pinned shots hold continuity but the motion quality is in question, so the two hardest shots (Kanga catch K1 to K2, wombat catch W1 to W2) were re-run on three other models with the same start and end frames and a granular, timed prompt. Results in `model-test/`.
+
+| Model | Kanga catch | Wombat catch | Per-shot cost (4 s, 720p) |
+|---|---|---|---|
+| PixVerse V6 | `UmNj6a25Hz9aTL2xeUWl` | `dcmYIW7tSIySryZLEUBp` | about 45 |
+| Veo 3.1 fast | `s8xtATopXXw5ZbZbE0J8` | `oYcbsQ9GkZ53DtpUEoyK` | about 150 |
+| Gemini Omni 1.1 Flash | `H3X1znfq9Iam7n64YGZ1` | `CHFuPGWd1EcMAInkFf8p` | about 225 |
+
+Verdict: PENDING.
+
+Rules for the rebuild on the winning model: every clip 2 to 5 seconds, one action per clip, timing spelled out in the prompt in seconds, one character per clip until the group leap at the very end, camera static or a single slow push, start and end frames from the keyframe chain.
+
 ## Assembly order (editor)
 
 1. `00-coin-sting` with the coin chime on the first landing.
