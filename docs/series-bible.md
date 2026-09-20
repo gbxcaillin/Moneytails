@@ -49,7 +49,7 @@
 
 ## Main cast
 
-- **KANGA** (lead) — eastern grey kangaroo. Emergency fund in the pouch. Calm, dry humour, never preachy. Olive-green work vest, pouch glows gold.
+- **KANGA** (lead) — eastern grey kangaroo. Emergency fund in the pouch. Calm, dry humour, never preachy. Light green tee under an olive-green work vest, pouch glows gold. Approved design: assets/series/kanga/.
 - **MAGGIE** — Australian magpie. Impulse buyer, swoops on shiny things. Mismatched bright sneakers, orange sling bag. Arc: BNPL → credit card episode → reformed saver.
 - **HOPPER** — green grasshopper. Laid-back musician, no safety net (the fable). Bucket hat, tiny guitar. Arc: builds the $1,000 starter fund.
 - **Wise elephant mentor** — optional authority figure for adult-level topics (super, tax). Not yet introduced.

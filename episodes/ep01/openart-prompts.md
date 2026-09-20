@@ -26,8 +26,10 @@ Generate 5–10 variations of each. Pick the best one, save it as a named charac
 
 ### KANGA (lead)
 
+KANGA is already approved. Do not generate her from text: attach `assets/series/kanga/kanga-hero-beach.png` and `assets/series/kanga/kanga-turnaround-a.png` as references and use the description below only as supporting text.
+
 ```
-[STYLE STRING] Anthropomorphic eastern grey kangaroo, adult female, standing upright on two legs, friendly calm expression with a slight knowing smile, soft grey-brown fur, cream belly, large expressive dark eyes, wearing a simple olive-green work vest with two front pockets, visible front pouch with a faint warm gold glow, full body, neutral grey background, character reference sheet
+[STYLE STRING] Anthropomorphic eastern grey kangaroo, adult female, standing upright on two legs, friendly calm expression with a slight knowing smile, soft grey-brown fur, cream belly, large expressive dark eyes, wearing a light green short-sleeved t-shirt under a simple olive-green sleeveless work vest with two front flap pockets and a small chest pocket, visible front pouch with a faint warm gold glow, full body, neutral grey background, character reference sheet
 ```
 
 Also generate a turnaround to help the model: add `, front view, side view and back view in a row` to the prompt once.

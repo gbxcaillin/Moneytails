@@ -8,7 +8,10 @@ AI-animated animal characters teaching financial skills to Australian audiences 
 - `docs/workflow.md` — OpenArt production pipeline and model decisions
 - `episodes/ep01/` — Episode 1 "The Pouch": script + OpenArt prompt pack
 - `prompts/` — global style string and negative prompt (paste-identical everywhere)
+- `assets/series/` — approved series-level character art (Kanga hero still, turnarounds, test clips)
+- `assets/ep01/` — generated character reference sheets and environment plates, with an asset manifest
 
 ## Status
-- EP01 script and generation prompts complete; asset generation in progress on OpenArt
+- EP01 script and generation prompts complete
+- EP01 character sheets (KANGA, MAGGIE, HOPPER, WOMBAT) and five environment plates generated on OpenArt, awaiting approval (see `assets/ep01/README.md`)
 - EP02 "Maggie vs. the Credit Card" teased, not yet written

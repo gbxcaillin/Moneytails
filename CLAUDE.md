@@ -25,6 +25,7 @@ A YouTube cartoon series using AI-generated animated videos of anthropomorphic a
 ## Current state
 - Episode 1 "The Pouch" (pay yourself first / emergency fund): script complete (episodes/ep01/script.md), OpenArt prompt pack complete (episodes/ep01/openart-prompts.md)
 - Episode 2 teased: "Maggie vs. the Credit Card"
+- First-pass character reference sheets and environment plates generated (assets/ep01/, manifest with OpenArt historyIds in assets/ep01/README.md). Awaiting approval before storyboard.
 - Production platform: OpenArt (see docs/workflow.md for model choices and pipeline)
 
 ## Key files
@@ -32,6 +33,8 @@ A YouTube cartoon series using AI-generated animated videos of anthropomorphic a
 - docs/workflow.md — OpenArt pipeline, model selections, prompting conventions
 - episodes/ep01/ — script + generation prompts
 - prompts/style-string.txt — the global style string, paste-identical everywhere
+- assets/series/ — approved character designs (KANGA done); always attach these as references, never regenerate from text
+- assets/ep01/ — generated reference art and the asset manifest
 
 ## When writing new episodes
 1. Pick the next concept from the curriculum order in docs/series-bible.md

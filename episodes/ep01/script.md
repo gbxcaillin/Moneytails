@@ -10,7 +10,7 @@
 
 ## Character bible (for consistent AI generation)
 
-**KANGA** — Eastern grey kangaroo, early 30s energy. Warm, dry sense of humour, never lectures. Wears a simple olive-green work vest. Her pouch glows faintly gold when money goes in. Voice: calm, Australian, slightly amused.
+**KANGA** — Eastern grey kangaroo, early 30s energy. Warm, dry sense of humour, never lectures. Wears a light green short-sleeved t-shirt under a simple olive-green work vest. Her pouch glows faintly gold when money goes in. Voice: calm, Australian, slightly amused.
 
 **MAGGIE** — Australian magpie, 20s. Fast-talking, loves anything shiny, charming and a bit chaotic. Wears mismatched bright sneakers and a sling bag full of gadgets. Voice: quick, upbeat, easily excited.
 
