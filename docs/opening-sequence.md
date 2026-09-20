@@ -1,6 +1,6 @@
 # Money Tails: opening sequence, theme and brand brief
 
-Working proposal for the series title sequence, theme music, typography and colour. Everything here is a recommendation to react to, not a locked decision. Locked items move to `docs/series-bible.md` once approved.
+**Locked:** Concept A "The Coin Trail" is the opener. The logo is the gold two-line wordmark with coin O and five roster tails (`assets/series/brand/logo-v3-five-tails.png`). Everything else in this document is still a proposal.
 
 ## 1. The job the opener has to do
 
@@ -12,7 +12,7 @@ Working proposal for the series title sequence, theme music, typography and colo
 
 ## 2. Three visual concepts
 
-### Concept A: The Coin Trail (recommended)
+### Concept A: The Coin Trail (LOCKED)
 
 One continuous camera move along the main street toward the beach, with each character joining the run as the camera passes them. Coins are the connective tissue: every character interacts with a coin in a way that says who they are.
 
@@ -139,8 +139,8 @@ Upbeat children's TV theme, 120 BPM, C major, ukulele strumming, hand claps, sha
 ## 10. Decisions needed
 
 
-1. Concept A, B or C for the full opener (recommendation: A, with B as the bumper).
-2. Logo direction chosen (gold wordmark, coin O, roster tails). Confirm five tails or three, then commission a vector version from `assets/series/brand/logo-v3-five-tails.png`.
+1. Opener: Concept A locked. Concept B still proposed as the 5 second bumper.
+2. Logo: five tails locked. Commission a vector version from `assets/series/brand/logo-v3-five-tails.png`.
 3. Fredoka or Baloo 2 as the wordmark base.
 4. Instrumental theme, or with the two-word kids' vocal on the title hit.
 5. Whether to commission a composer or start from a generated scratch track.

@@ -30,7 +30,7 @@ A YouTube cartoon series using AI-generated animated videos of anthropomorphic a
 
 ## Key files
 - docs/series-bible.md — full curriculum and character roster
-- docs/opening-sequence.md — title sequence, theme music, typography and colour brief (proposals, not yet locked)
+- docs/opening-sequence.md — title sequence, theme music, typography and colour brief. Locked: Coin Trail opener, five-tail logo. Music, fonts, vocal still proposals.
 - docs/workflow.md — OpenArt pipeline, model selections, prompting conventions
 - episodes/ep01/ — script + generation prompts
 - prompts/style-string.txt — the global style string, paste-identical everywhere
