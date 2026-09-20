@@ -52,6 +52,16 @@ Round-5 additions to the rule: view the whole keyframe chain at full size before
 - WOMBAT: Australian male, 40s, flat deadpan.
 - LANDLORD (V.O.): neutral, dull, bureaucratic.
 
-## Seedance 2.5 single pass (learned on the opener, round 6)
+## Seedance 2.5 clips: one complex event or two simple events per clip
 
-For a sequence up to 30 s with several characters, one Seedance 2.5 element2video job with a script-style prompt (style block, character block with reference image numbers, audio block, then numbered shots with second ranges) beat five rounds of pinned single-action shots on every axis: continuity, motion quality, cost and time. Attach the character sheets, the environment plate and the logo as references in the order the prompt numbers them. 1080p, audio on. Reserve the pinned-keyframe method for a single prop hand-off that a one-pass render gets wrong.
+A 30 s chunk with several shots and several lines gives the model too many directions and it averages them (learned on EP01 chunks 1 to 3). The unit of generation is now a clip, not a chunk:
+
+- **One complex event, or two simple events, per clip.** A complex event is anything with a state change the viewer has to read: a character coveting the thing in the window, a transfer moving money between tiles, a balance bar being sliced, a scooter dying. A simple event is a single pose or beat with no state change: Maggie lands on the footpath, Hopper strums on the bench, Kanga sips her coffee. Two simple events can share a clip if they are in the same frame. A complex event gets a clip to itself.
+- **One camera setup per clip.** No cuts inside a clip. Cuts happen in the edit.
+- **One line of dialogue per clip, two at most** when it is a quick back and forth in the same frame.
+- **Length is what the event needs**, usually 4 to 10 s. Never pad to fill a duration.
+- **Prompt shape:** style block, character block, voice block, then a single paragraph describing the event with its timing. No shot numbers, no "cut to".
+- **References:** the character sheets in the clip, the environment plate, the storyboard panel for that shot, and a voice reference for each speaking lead. Give the previous clip as a video reference only when the two clips share a setup and must match.
+- **Assembly:** clips are cut together in the edit, where the on-screen text, captions and the end card are added. Draft at 480p, re-render approved clips at 1080p with the same prompt.
+
+The 30 s single-pass method stays for the opener, where there is no dialogue and the beats are all one gag each.
