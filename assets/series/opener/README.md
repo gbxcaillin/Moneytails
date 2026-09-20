@@ -9,8 +9,8 @@ All seven clips generated and reviewed. OpenArt, Kling 3 Omni, 16:9, std resolut
 | 2 Maggie | `02-maggie.mp4` | `3k36GvDKVZlvKdH1YoPU` | 4 s | MAGGIE, ENV1 | Pass. Swoops in from top, coin in frame, lands running right with sneakers and bag on-model. |
 | 3 Hopper | `03-hopper.mp4` | `4FEcl3Rr37M8M2YKM4sx` | 4 s | HOPPER, ENV1 | Pass. Strums on bench, springs off to the right at the end. The coin bounce off the hat is faint; add a coin overlay in the editor if it needs to read. |
 | 4 Wombat and cameos | `04-wombat.mp4` | `IgjDN1oBTDq87U0t5Mbb` | 4 s | WOMBAT, ENV4 | Pass with note. Wombat wipes paws and lifts his cap, bear and bull scuffle over a newspaper in the background as briefed. The camera pans off him before the coin catch reads, so the clip ends on empty road. Cut it at about 2.5 s, or regenerate with a slower pan if the catch matters. |
-| 5 The leap | `05-leap.mp4` | `jpVel5BMzhHECILJUQm3` | 5 s | KANGA hero, MAGGIE, HOPPER, ENV1 | Pass. All three run at camera and end big in frame mid-leap with a gold coin trail below. Kling kept only the first two references (Kanga hero, Maggie); Hopper and the street came from prompt text and still matched. |
-| 6 Title hit | `06-title.mp4` | `51lAbWQ6dB0x31LPhQJa` | 3 s | Five-tail logo still | Pass. Lettering stays fixed and sharp, coin O flares, glow pulses, coins drift. Usable as the title hit directly. |
+| 5 The leap | `05-leap.mp4` | v2 `v7cDCRGOnkP48ZGJme54` | 5 s | KANGA hero, MAGGIE, HOPPER, ENV1 | v1 (`jpVel5BMzhHECILJUQm3`, kept in `rejected/`) rejected: Kanga ran instead of hopping. v2 prompt: Kanga bounds on hind legs, Hopper springs, Maggie runs. Review PENDING. |
+| 6 Title hit | `06-title.mp4` | v2 `VTt25TBriFjkedt61SA8` | 3 s | Five-tail logo still | v1 (`51lAbWQ6dB0x31LPhQJa`, kept in `rejected/`) rejected: the echidna tail on the left popped up instead of staying put. v2 prompt: tails only quiver in place, nothing rises, camera locked. Review PENDING. |
 
 ## Assembly order (editor)
 
