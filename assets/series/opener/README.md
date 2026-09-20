@@ -30,6 +30,20 @@ Key stills live in `hopper-keyframes/` (S1 `WaWOTYQ0kKNg70L4lhRl`, S2 `mLysVBsml
 
 `opener-rough-assembly.mp4` is a straight concatenation of every clip in order at 1280x720, untrimmed and silent, 39 s. It exists only to review flow; the real cut trims each clip to its action endpoint and lands at 22 to 25 s.
 
+## Continuity rebuild (round 3)
+
+Review of the rough assembly found the same class of fault in every character beat, so all of them are being rebuilt the way Hopper was: chained keyframes, then short start-to-end shots.
+
+| Beat | Fault in the current clip | Rebuild |
+|---|---|---|
+| 0 Sting | Pouch silhouette was dark brown, not Kanga's colours | New still of Kanga's midsection in her real colours, coin dropping into the pouch, then animate |
+| 1 Kanga | Coin drifts past; she never touches it | K1 coin falling toward her, K2 coin in her paw, K3 coin going into the pouch with the glow, K4 mid-hop right. Three shots |
+| 2 Maggie | Coin never goes in the bag | M1 swooping at the coin, M2 landed with coin in beak, M3 coin dropping into the orange sling bag, M4 running right. Three shots |
+| 3 Hopper | Close-up insert was shot from the other side of the bench, so the bench jumped sides on the cut | Insert regenerated as a push-in from the same side. 3A, 3B, 3C unchanged |
+| 4 Wombat | Coin floats slowly and shrinks into the cap | W1 coin flying in fast, W2 cap held out with the coin landing in it, W3 cap back on with a nod. Two shots |
+
+The leap and the title hit were not flagged and are unchanged.
+
 ## Assembly order (editor)
 
 1. `00-coin-sting` with the coin chime on the first landing.

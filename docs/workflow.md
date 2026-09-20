@@ -23,6 +23,17 @@
 - Character descriptions must be word-for-word identical across shots to limit drift.
 - No readable text in generations; all on-screen text is added in the editor.
 
+## Continuity rule for any prop that changes hands (learned on the opener)
+
+Video models cannot hold "object moves from A to B" through a single clip. Every single-shot attempt at Hopper's coin flick produced a second coin; the wombat's coin floated and shrank into his cap; Kanga and Maggie never touched theirs. The fix that works, every time so far:
+
+1. **Generate keyframe stills first**, chained from one base image with Nano Banana Pro image-to-image ("edit the first reference and keep everything else identical, change only X"). One still per state of the prop: before, in hand, in pouch, gone. Attach the base still first and the character sheet second; the service keeps only two references.
+2. **Shoot each state change as its own 3 to 4 second clip** with Kling image-to-video, passing the "before" still as `startFrame` and the "after" still as `endFrame`. Prompt the single action between them and say "exactly one coin" and "camera static".
+3. **Keep every shot on the same camera side.** A closer shot is a push-in from the same angle, never a reverse. Crossing the line makes a bench or a character jump sides on the cut.
+4. **Assemble the shots end to end.** A beat may run 8 to 13 seconds this way; the brief allows it.
+
+A second model does not fix this. Seedance 2.0 failed the same single-shot gag the same way.
+
 ## Credit management
 - Explainer segments: stills with animated diagrams only; save video credits for character action.
 - Multi-character wides drift most; budget extra attempts or stage as alternating close-ups.
