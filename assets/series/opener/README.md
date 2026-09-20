@@ -37,7 +37,7 @@ Kling's pinned shots hold continuity but the motion quality is in question, so t
 | Veo 3.1 fast | `s8xtATopXXw5ZbZbE0J8` | `oYcbsQ9GkZ53DtpUEoyK` | about 150 |
 | Gemini Omni 1.1 Flash | `H3X1znfq9Iam7n64YGZ1` | `CHFuPGWd1EcMAInkFf8p` | about 225 |
 
-Verdict: PENDING.
+Verdict: Veo 3.1 (fast, 720p, audio off) wins. On the wombat catch it keeps the coin visible on a real falling arc, the cap comes off under it, and the coin lands in the cap at 2 s. Gemini was close but costs half again as much and adds an audio track. PixVerse kept the coin visible but let it drift back upward mid-shot. Kling lost the coin at 0.6 s. The two passing Veo test clips are reused as shots 1A and 4A. All other pinned shots are being rebuilt on Veo into `shots-veo/`; 126 credits per 4 s shot.
 
 Rules for the rebuild on the winning model: every clip 2 to 5 seconds, one action per clip, timing spelled out in the prompt in seconds, one character per clip until the group leap at the very end, camera static or a single slow push, start and end frames from the keyframe chain.
 
