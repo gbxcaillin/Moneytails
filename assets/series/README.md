@@ -16,5 +16,13 @@ Assets supplied from the OpenArt "animated series" folder. These are the canonic
 Locked design details visible in these files (use these words in every prompt):
 `soft grey-brown fur, cream belly, large dark eyes with small lashes, light green short-sleeved t-shirt under an olive-green sleeveless work vest with two front flap pockets and a small chest pocket, faint warm gold glow at the pouch, no other clothing`
 
-## Still to approve
-MAGGIE, HOPPER and WOMBAT have no series-level approved design yet. First-pass sheets are in `assets/ep01/characters/`. Once one is approved, copy it here and add it to this table.
+## MAGGIE, HOPPER, WOMBAT (approved)
+
+| File | Character | Source |
+|---|---|---|
+| `maggie/maggie-ref-sheet.png` | MAGGIE, three-view sheet | OpenArt `wgi65ab3d1ZAwh8z4Keh` |
+| `hopper/hopper-ref-sheet.png` | HOPPER, three-view sheet | OpenArt `asshHLjaqWbZmwUyv73G` |
+| `wombat/wombat-ref-sheet.png` | WOMBAT MECHANIC, three-view sheet | OpenArt `sO13cYPPxnW9ff4lsniz` |
+
+OpenArt reference ids for image-to-image (pass as `visualReferences`, lead character first):
+KANGA hero `vWfYJE8bj28ATNZDlrnE`, KANGA turnaround `TGYOo8MFUIhR8BrhQeN8`, MAGGIE `92cypkRioU7Aa9kbCTQ1`, HOPPER `tLIwpkdCKcRWPh9zdMwz`, WOMBAT `zZ2j4AqBsIn5C1ZXmCub`, ENV1 `gNSjWB1cXQ4bPjzhJEql`, ENV2 `wEZrqV4cF8P4o39Y7I8X`, ENV3 `4nqFkN4seEXBSNulKRd9`, ENV4 `YFGTxdvJcyXtQ7MTeD9a`.

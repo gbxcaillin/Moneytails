@@ -25,9 +25,8 @@ All images: Nano Banana Pro, text2image, 16:9, 1K (1376 x 768), one image per pr
 
 ## Next steps (per docs/workflow.md)
 
-1. Approve or reject each sheet above. Rejects get one regeneration each; do not regenerate approved ones.
-2. In OpenArt, save the four approved sheets as named characters (KANGA, MAGGIE, HOPPER, WOMBAT) and the environments as Worlds, so later prompts select them instead of retyping descriptions.
-3. Storyboard: run the 28-panel shot list from `episodes/ep01/openart-prompts.md` Section 3 with the saved characters and environments attached.
-4. Video only after the storyboard is approved.
+1. Characters approved and promoted to `assets/series/`. Done.
+2. Storyboard generated and reviewed: `storyboard/README.md`. Done.
+3. Next: video (Smart Shot for SS-1 to SS-5, image-to-video from approved panels for dialogue and explainer beats), then voices.
 
 The OpenArt "animated series" assets folder is not reachable through the connector (it only exposes uploads, generation history and projects). The approved Kanga files from that folder were supplied by hand and live in `assets/series/kanga/`.

@@ -13,5 +13,6 @@ AI-animated animal characters teaching financial skills to Australian audiences 
 
 ## Status
 - EP01 script and generation prompts complete
-- EP01 character sheets (KANGA, MAGGIE, HOPPER, WOMBAT) and five environment plates generated on OpenArt, awaiting approval (see `assets/ep01/README.md`)
+- All four characters approved (`assets/series/`), five environment plates done
+- EP01 storyboard: all 28 panels generated and reviewed (`assets/ep01/storyboard/`), ready for video
 - EP02 "Maggie vs. the Credit Card" teased, not yet written
