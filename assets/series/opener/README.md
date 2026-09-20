@@ -14,6 +14,19 @@ All seven clips generated, reviewed and passed. Four beats were regenerated; Hop
 
 Rule: a clip runs as long as its coin gag needs. Do not cut a gag short to hit the 20 s target; trim the holds between gags instead, and let the full opener stretch toward 25 s if it has to.
 
+
+## Hopper beat, take two: the flick gag in three pinned shots
+
+The single-shot flick gag failed three times on Kling (a second coin appeared every time the model had to carry "coin on hat, then coin in hand" through one clip). Fix: split the gag into three short shots, each pinned by a start frame and an end frame generated as stills, so no clip carries the coin's state for more than about three seconds. A cut to a different angle between shots hides the joins and is normal film grammar.
+
+| Shot | Angle | Start frame | End frame | Action | Length |
+|---|---|---|---|---|---|
+| 3A | Medium wide, bench left of frame | S1 strumming, no coin | S2 coin lying on bench, Hopper looking at it | Coin drops in, bounces off the hat, lands on the bench | 3 s |
+| 3B | Close-up, low three-quarter from the right | S2 (as start) | S3 coin held up between two fingers, shrug | He picks the coin up off the bench and holds it up | 3 s |
+| 3C | Medium wide, same as 3A | S3w wide, coin in hand ready to flick | S4 bench empty, Hopper mid-leap right, coin high | He flicks the coin up with the guitar neck and springs after it | 4 s |
+
+Key stills live in `hopper-keyframes/`. A second model (Seedance 2.0) is being run on the single-shot version from S1 as a comparison.
+
 ## Assembly order (editor)
 
 1. `00-coin-sting` with the coin chime on the first landing.
