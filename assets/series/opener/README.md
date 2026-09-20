@@ -1,6 +1,10 @@
 # Money Tails opener: "The Coin Trail" clips
 
-## Round 6: single-pass Seedance 2.5 (current pick)
+## Round 6b: soundtrack pass (current pick)
+
+`seedance/opener-seedance25-v2-audio.mp4`, historyId `W81gWrT293FXcra61heI`. Same model and settings as v1, with the v1 picture (trimmed to 29.5 s, upload `9iApRKLTvQ9EXBpwJItZ`) passed as a video reference and the prompt in `seedance/prompt-v2-audio.md`: reproduce the picture, replace the soundtrack. Result: the picture is a shot-for-shot reproduction of v1, with a new track: ukulele theme that builds instrument by instrument per the brief, coin chimes on each landing, Kanga's five intro lines in her scripted voice (calm, Australian, slightly amused), and a group "MONEY TAILS!" cheer on the title hit. The soundtrack alone is in `seedance/opener-v2-soundtrack.m4a` for laying over v1 or a future cut. Verified from the waveform and spectrogram: voice energy sits in the five scripted line windows (3.0 to 4.5 s, 6.8 to 8.5 s, 12.3 to 14.5 s, 16.3 to 18.8 s, 20.5 to 22.8 s), transients land on the coin beats, and a broad group burst hits at 26.8 to 27.8 s, then a fade to silence. The words, accent and mix balance need a listen.
+
+## Round 6: single-pass Seedance 2.5 (picture locked)
 
 `seedance/opener-seedance25-v1.mp4`, historyId `ghUVvja70AQbyyBQvY8Y`. Seedance 2.5 element2video, 30 s, 1080p, 16:9, audio on (ukulele and claps theme with coin chimes, no voice). Six references in this order: Kanga hero, Maggie sheet, Hopper sheet, Wombat sheet, main street plate, five-tail logo. The prompt is a nine-shot script with timings in `seedance/prompt-v1.md`. Cost 9,625 credits list (about 8,663 after the MCP discount).
 

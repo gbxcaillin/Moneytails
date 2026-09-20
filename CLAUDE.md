@@ -26,7 +26,7 @@ A YouTube cartoon series using AI-generated animated videos of anthropomorphic a
 - Episode 1 "The Pouch" (pay yourself first / emergency fund): script complete (episodes/ep01/script.md), OpenArt prompt pack complete (episodes/ep01/openart-prompts.md)
 - Episode 2 teased: "Maggie vs. the Credit Card"
 - All four characters approved (assets/series/). Environment plates done (assets/ep01/environments/). Storyboard complete: 28 panels reviewed and passed (assets/ep01/storyboard/README.md). Next: video (Section 4 of the prompt pack) and voices.
-- Opener "The Coin Trail": DONE as a single 30 s Seedance 2.5 pass with audio (assets/series/opener/seedance/opener-seedance25-v1.mp4, prompt in seedance/prompt-v1.md, manifest in assets/series/opener/README.md). Ends on the five-tail title card and fades to black. Earlier pinned-shot rounds kept as fallback. Next: editor polish if needed, then Episode 1 video and voices.
+- Opener "The Coin Trail": DONE as a single 30 s Seedance 2.5 pass with audio with a soundtrack pass (assets/series/opener/seedance/opener-seedance25-v2-audio.mp4: theme, coin chimes, Kanga's intro lines, group cheer; prompts in seedance/, manifest in assets/series/opener/README.md). Ends on the five-tail title card and fades to black. Earlier pinned-shot rounds kept as fallback. Next: editor polish if needed, then Episode 1 video and voices.
 - Production platform: OpenArt (see docs/workflow.md for model choices and pipeline)
 
 ## Key files
