@@ -47,17 +47,18 @@ Wordmark, not a symbol. Kids read "MONEY TAILS" once and remember it.
 
 - **Lettering:** chunky, rounded, slightly bouncy baseline. Two lines, MONEY over TAILS, so it fits both 16:9 and 9:16. Gold letters with an orange bottom shade and the thick dark outline used everywhere else in the show.
 - **Coin O:** the O in MONEY is a gold coin. This is the only letter that is not a plain letter. The S stays a normal S.
-- **Three tails:** below the wordmark, three tails poke up from the bottom edge like a picket fence and overlap the base of TAILS: kangaroo tail on the left, magpie tail feathers in the middle, fluffy koala tail tuft on the right. The tails are the visual pun; they say "tails" without touching the letters.
+- **The tails:** below the wordmark, a row of tails pokes up from the bottom edge like a picket fence and overlaps the base of TAILS. Every tail belongs to an animal in the series roster (`docs/series-bible.md`), even ones not met until later episodes. Recommended lineup of five, left to right: echidna (insurance), kangaroo (Kanga), magpie (Maggie) in the centre, platypus (diversification), saltwater croc (patience). A three-tail cut-down (kangaroo, magpie, platypus) is kept for small sizes. The tails are the visual pun; they say "tails" without touching the letters.
 - **Glow:** the wordmark always sits on the soft gold pouch glow, on every background, including thumbnails.
 - **Backgrounds:** beach and sky for the opener title hit and channel art, plain cream with a faint sunburst for the end card and thumbnails.
 - **Lockups:** primary (two-line with tails and glow), horizontal one-line without tails for the channel banner, and an icon-only version (the coin O alone, or the three tails alone) for the channel avatar and watermark.
 
-Rendered direction: `assets/series/brand/logo-v2-beach.png` and `logo-v2-cream.png`. The earlier concepts A, B and C are kept in the same folder for the record. Everything here is direction for a vector logo, not the final artwork.
+Rendered direction: `assets/series/brand/logo-v3-five-tails.png` (recommended) and `logo-v3-three-tails.png`. Earlier concepts and the rejected koala version are kept in the same folder for the record. Everything here is direction for a vector logo, not the final artwork.
 
 Notes for the vector pass:
-- Draw the kangaroo tail smooth and thick, as in the beach version. The cream render gave it segment lines that read like a horn.
-- Keep the koala tail as a round grey fluff tuft. Real koalas have almost no tail, so the tuft is a deliberate cartoon exaggeration and it should stay small and round so it does not read as a rabbit or a sheep.
-- The three tails imply three characters. Kanga and Maggie own the first two. The koala tail introduces a koala who is not yet in the cast roster. Recommendation: cast the koala as the wise mentor for the adult-level topics (super, tax), which the series bible currently leaves open as an "optional elephant". A sleepy koala who has seen every market cycle fits the tone better than an elephant in an Australian coastal town, and it makes the logo honest. Hopper stays a lead; he just is not on the logo, which is fine because the grasshopper has no tail to show.
+- Keep the tails upright, as in the five-tail render. In the three-tail render they lie flat and read as objects on the sand rather than tails poking up.
+- Draw the kangaroo tail smooth and thick, no segment lines.
+- The croc tail should stay cartoon-friendly: rounded scutes, no teeth-like points, so it reads as a character and not a threat to a six year old.
+- As new roster animals are introduced, their tails can be added to the fence in the channel banner version, which has room for more. The wordmark lockup stays at five.
 
 ## 4. Typography
 
@@ -137,10 +138,9 @@ Upbeat children's TV theme, 120 BPM, C major, ukulele strumming, hand claps, sha
 
 ## 10. Decisions needed
 
-0. Add a koala to the cast (proposed: the mentor for adult-level topics) so the three tails on the logo all belong to someone.
 
 1. Concept A, B or C for the full opener (recommendation: A, with B as the bumper).
-2. Logo direction chosen (gold wordmark, coin O, three tails with koala). Commission a vector version from `assets/series/brand/logo-v2-beach.png`.
+2. Logo direction chosen (gold wordmark, coin O, roster tails). Confirm five tails or three, then commission a vector version from `assets/series/brand/logo-v3-five-tails.png`.
 3. Fredoka or Baloo 2 as the wordmark base.
 4. Instrumental theme, or with the two-word kids' vocal on the title hit.
 5. Whether to commission a composer or start from a generated scratch track.
