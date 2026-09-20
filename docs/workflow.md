@@ -23,6 +23,7 @@
 - Kling video prompts: 50–150 words, one camera move per shot, action endpoints ("waves, then rests paw on pouch"), dialogue as `[Character: voice description]: "line"`, ++emphasis++ on 2–4 critical elements max.
 - Character descriptions must be word-for-word identical across shots to limit drift.
 - No readable text in generations; all on-screen text is added in the editor.
+- **Screen time rule in prompts:** when writing a Seedance chunk, give character-only beats 2 to 4 seconds and spend the rest of the chunk on the concept imagery (the transfer, the pouch, the balance, the explainer). Describe the money or the mechanism as the thing that moves, with the character reacting in a line or a look. Do not write in extra gags to fill a 30 s chunk; end the chunk early and start the next one instead. Full rule in docs/series-bible.md.
 
 ## Continuity rule for any prop that changes hands (learned on the opener)
 

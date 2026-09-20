@@ -211,4 +211,5 @@ Next time: Maggie gets a credit card. It goes about as well as you'd think.
 - **Reusable asset:** The "pay packet sliced up" animation (Shots 13–14) can be reused in the budgeting and super episodes.
 - **Numbers shown on screen** ($640 repair, $40 rent rise, $1,000 starter goal) are deliberately ordinary so adult viewers recognise them.
 - **Layering check:** Kids follow the story and the pouch. Young adults get the BNPL and automation beats. Adults get the 3-month target and the high-interest saver tip.
+- **Screen time rule (applies to every shot when rendering):** character-only beats run 2 to 4 seconds. Shot 1 renders at about 8 s, not 12. Shot 5 (the montage) is about what the money does, not the shopping; show each tap taking a slice off a balance. Shots 4, 6, 13, 14 and the explainer space get the most screen time in the episode.
 - **Prompt hint for AI generation:** Describe each shot as "2D cartoon, flat shading, thick clean outlines, bright Australian coastal town, [character description], [action]". Keep character descriptions word-for-word identical across shots to limit drift.

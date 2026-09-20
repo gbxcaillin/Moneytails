@@ -16,6 +16,7 @@ A YouTube cartoon series using AI-generated animated videos of anthropomorphic a
 - Structure: 10–15s cold open hook → setup → the hit (problem) → the lesson (explainer space) → the turn → payoff + tag/teaser
 - Every episode ends with a 3-line end card: (1) one-sentence rule, (2) one action to do today, (3) one number to aim for
 - Numbers shown on screen are deliberately ordinary ($640 repair, $40 rent rise) so adults recognise them
+- Screen time rule: the idea gets the frame. Character-only beats run 2 to 4 seconds; about two thirds of the runtime shows the concept itself (money moving, the pouch, the pay packet, balances, the explainer space). Explore the idea, do not perform gags. Full rule in docs/series-bible.md.
 
 ## Series brand devices
 - The glowing gold pouch = savings. Characters who "get it" earn their own glow on a personal item.
@@ -41,5 +42,5 @@ A YouTube cartoon series using AI-generated animated videos of anthropomorphic a
 ## When writing new episodes
 1. Pick the next concept from the curriculum order in docs/series-bible.md
 2. Cast from the roster (match animal theme to concept)
-3. Follow the locked episode format above
+3. Follow the locked episode format above, and apply the screen time rule to every shot: cut or shorten any shot that does not make the lesson clearer
 4. Produce script.md first (26–30 shots, character bible header, production notes), then openart-prompts.md following the ep01 pattern: style string → characters → environments → storyboard list → Smart Shot sequences → image-to-video motion prompts → voice specs → assembly order → credit tips
