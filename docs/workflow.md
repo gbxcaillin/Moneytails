@@ -64,4 +64,12 @@ A 30 s chunk with several shots and several lines gives the model too many direc
 - **References:** the character sheets in the clip, the environment plate, the storyboard panel for that shot, and a voice reference for each speaking lead. Give the previous clip as a video reference only when the two clips share a setup and must match.
 - **Assembly:** clips are cut together in the edit, where the on-screen text, captions and the end card are added. Draft at 480p, re-render approved clips at 1080p with the same prompt.
 
+
+### Standing conventions learned on EP01 clips 01 to 13
+
+- **Balance bars are meters, not shapes.** Describe them as a fixed outline that stays the same size, with a coloured fill inside that drains down from the right as money is spent. Never say the bar "shrinks" or "is sliced"; the model then shrinks the outline. Spending is the fill going down; a small purchase drops it a little, a big one a lot. Nothing sits inside the bar except the fill; icons of what was bought go beside the bar, never in it.
+- **Point-of-view phone shots show only the phone and the paws holding it.** Frame it from the character's eyes: the phone fills the middle of the frame, the paws come in from the bottom corners, and the background is the ground, footpath or sky, never the character's own torso, vest or pouch. If the pouch has to glow, cut to a separate shot.
+- **Wings are wings.** Maggie holds a phone with the tip of one wing and keeps the other wing as a wing, folded or spread. Never write "both wings" holding a small object and never write a flap while she holds it, or the model adds an arm.
+- **Furniture belongs to the plate.** Place benches, counters and letterboxes against something in the environment plate (the shopfront, the kerb, the window) and say "on the footpath, with the road behind", never just "on the street".
+
 The 30 s single-pass method stays for the opener, where there is no dialogue and the beats are all one gag each.
