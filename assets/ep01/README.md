@@ -30,3 +30,11 @@ All images: Nano Banana Pro, text2image, 16:9, 1K (1376 x 768), one image per pr
 3. Next: video (Smart Shot for SS-1 to SS-5, image-to-video from approved panels for dialogue and explainer beats), then voices.
 
 The OpenArt "animated series" assets folder is not reachable through the connector (it only exposes uploads, generation history and projects). The approved Kanga files from that folder were supplied by hand and live in `assets/series/kanga/`.
+
+## Video drafts (Seedance 2.5)
+
+| Chunk | File | historyId | Settings | Verdict |
+|---|---|---|---|---|
+| 01, shots 1 to 3 (0:00 to 0:30) | `video/chunk01-draft-480p-v1.mp4` | `pRMCmfTzYD9eg6EiRBrD` | 480p, 30 s, audio on, 1,629 credits. Refs: Kanga hero, Maggie, Hopper, ENV1, storyboard panels 1 to 3, Kanga voice reference `assets/series/kanga/kanga-voice-ref-opener.mp3` (upload `PhWin5XjnKXIPjtmoaDA`). Prompt in `video/chunk01-prompt-v1.md`. | Pass as a draft. Shot 1 matches panel 1 (Maggie swoop to the window, Hopper on the bench, golden light) with Kanga's voice over from 2 s. Shot 2 is the pouch silhouette with coins dropping in and the glow, no lettering. Shot 3 is the three-phone split screen revealing Maggie, Hopper and Kanga in turn with their lines and Kanga's pouch glow on the tap at 30 s. No text anywhere. Nit: the split screen sits inside a grey border rather than filling the frame; either scale it in the edit or add "panels fill the frame edge to edge" to the prompt for the 1080p pass. Voice match against the opener needs a listen. |
+
+Method: one Seedance 2.5 element2video job per 30 s chunk, script-style prompt with shot timings and dialogue, character sheets plus environment plate plus the storyboard panels for those shots as image references, and a voice reference audio clip per speaking lead. Draft every chunk at 480p, then re-render approved chunks at 1080p with the same prompt and references.
