@@ -1,18 +1,26 @@
 # Money Tails opener: "The Coin Trail" clips
 
-Round 3. Every character beat is now built from chained keyframe stills (`keyframes/`, `hopper-keyframes/`) and short Kling image-to-video shots pinned to a start and end frame (`shots/`, `hopper-shots/`). Method in `docs/workflow.md`, "Continuity rule for any prop that changes hands". All clips 16:9, std resolution, sound off. `opener-rough-assembly.mp4` is a straight concat of every shot in order, 48 s raw, silent, for review only; the real cut trims to about 25 s.
+Round 4. Every character beat is built from chained keyframe stills (`keyframes/`, `hopper-keyframes/`) and 4 second Veo 3.1 shots pinned to a start and end frame, with a timed single-action prompt (`shots-veo/`). Kling 3 Omni versions of the same shots are kept in `shots/` and `hopper-shots/` for reference. Method in `docs/workflow.md`. `opener-rough-assembly.mp4` is a straight concat of every shot in order, silent, for review only; the real cut trims to about 25 s.
 
-| Beat | Shots | Keyframes | Review |
-|---|---|---|---|
-| 0 Sting | `shots/0-sting.mp4` 3 s (`shfQTJXChydJpafdcaTB`) | S1 `JI7j5sRWJbnj1LTrI0px`, S2 `Xp97rJgFxPOhRxe3dUTZ` | Pass. Kanga's real colours, coin drops into the pouch, glow flares. |
-| 1 Kanga | `shots/1A-kanga-catch.mp4` (`TCTjNfSj166wmNN371L6`), `1B-kanga-pouch.mp4` (`bl1GzT46aVQA8cSOdj3S`), `1C-kanga-hop.mp4` (`mXG650fFfOjDyR4EJBO0`), 3 s each | K1 `PWLECMyaog8Vn5oN2ISN`, K2 `m06pLpZt97ueRzmLxxp1`, K3 `knMOCCQjBOwa6h3FBWV5`, K4 `X5XBjzj5JIvILOj3tRbO` | Pass. Coin falls, she catches it in her paw, tucks it into the pouch (glow flares), pats the pouch, hops off right. One coin throughout. |
-| 2 Maggie | `shots/2A-maggie-snatch.mp4` (`hfGjbORbWDq4xziYOBft`), `2B-maggie-bag.mp4` (`mKMSWkXCno9c2HPNZau9`), `2C-maggie-run.mp4` (`IydhLkuxI5DCd46sfunA`), 3 s each | M1 `SlMCUcO29p6EXAOkeLKl`, M2 `1q5iZ1SmZ5crO7Y87FPp`, M3 `OnsIKOauaDiK9dRY2Lvk`, M4 `8DGKdoxiL52ZrSGN3JDT` | Pass. Swoops, snatches the coin in her beak, lands, drops it into the orange sling bag, pats the bag, runs off right. One coin throughout. |
-| 3 Hopper | `hopper-shots/3A`, `3B`, `3B-insert-closeup` (same side, `sugiO1wBb4ou7Mnrvjt6`), `3C` | S1 to S4 in `hopper-keyframes/`, same-side close-up `5tzA7lubomXi3E6aBMcl` | Pass. Bounce off the hat onto the bench, pick up, close-up from the same side of the bench, flick and leap. One coin throughout. |
-| 4 Wombat | `shots/4A-wombat-catch.mp4` (`ZHBCdPqRHSd5kp4JeeR7`), `4B-wombat-cap.mp4` (`fTHKnxLdnGlZ4bcZwQ19`), 3 s each | W1 `ZPlkPuZoPnGjGYFODqU6`, W2 `zCONeCwGwp4fVapXZD05`, W3 `sHkhTf3lEZPBsUTVQqlJ` | Pass with note. Coin flies in fast on a real arc and lands on top of his cap at 0.6 s; he lifts the cap off and the coin is in it; he checks, nods, puts the cap back on. Reads as "lands on his hat, he tips it into the cap" rather than a mid-air catch. If the mid-air catch is wanted, add a keyframe with the cap already held out before the coin arrives. Bear and bull scuffle throughout. |
-| 5 The leap | `05-leap.mp4` 5 s (`v7cDCRGOnkP48ZGJme54`) | none | Pass (v2, Kanga hops). Unchanged from round 2. |
-| 6 Title hit | `06-title.mp4` 3 s (`VTt25TBriFjkedt61SA8`) | five-tail logo still | Pass (v2, tails stay planted). Unchanged from round 2. |
+| Beat | Shot | Model | historyId | Verdict |
+|---|---|---|---|---|
+| 0 | `shots-veo/0-sting.mp4` | Veo 3.1 | `eMqd7U5FHN8Vdd3RE1Dg` | Pass. Coin drops into the pouch, glow flares. Kanga's real colours. |
+| 1A | `shots-veo/1A-kanga-catch.mp4` | Veo 3.1 | `s8xtATopXXw5ZbZbE0J8` | Pass. Coin falls at gravity, caught cleanly in her paw. |
+| 1B | `shots-veo/1B-kanga-pouch.mp4` | Veo 3.1 | `Pu7EAsbaV2eePOCIxOyM` | Pass. Coin tucked into the pouch, glow flares. |
+| 1C | `shots-veo/1C-kanga-hop.mp4` | Veo 3.1 | `0KSlkzvXCxCLpI5OCcJL` | Pass. Pats pouch, looks to camera, hops off right. |
+| 2A | `shots-veo/2A-maggie-snatch.mp4` | Veo 3.1 | `7yrCAIAwIdzFcCWZKRRo` (v2) | Pass. v1 dropped and re-grabbed the coin. |
+| 2B | `shots-veo/2B-maggie-bag-KLING.mp4` | Kling 3 Omni | `mKMSWkXCno9c2HPNZau9` | Pass on Kling. Veo failed three times, each time dropping the coin onto the footpath beside her instead of into the bag. |
+| 2C | `shots-veo/2C-maggie-run.mp4` | Veo 3.1 | `TR48jZhy3unFOZXcC8ic` (v2) | Pass. v1 spilled coins from the bag. |
+| 3A | `shots-veo/3A-hopper-bounce.mp4` | Veo 3.1 | `Lt2JGcamWweeGenb6njC` (v2) | Pass. Bounce off the hat onto the bench, hat clean. v1 left a yellow mark on the hat. |
+| 3B | `shots-veo/3B-hopper-pickup.mp4` | Veo 3.1 | `WTmI3JSIri8kN2IJhHfe` | Pass. Picks it up off the bench, holds it up. |
+| 3B insert | `shots-veo/3B-hopper-insert.mp4` | Veo 3.1 | `3QWKGOGgeNLXggH4kGgz` (v2) | Pass. Same side of the bench, coin stays in his fingers. v1 lost the coin onto the guitar. |
+| 3C | `shots-veo/3C-hopper-flick-leap.mp4` | Veo 3.1 | `zqddDKKwvOXnKXMYWWHZ` | Pass. Flick up, leap right, bench empty, coin high. |
+| 4A | `shots-veo/4A-wombat-catch.mp4` | Veo 3.1 | `oYcbsQ9GkZ53DtpUEoyK` | Pass. Coin on a real arc, cap comes off under it, lands in the cap. |
+| 4B | `shots-veo/4B-wombat-cap.mp4` | Veo 3.1 | `hsKwzWDiGjbanXxQzR6J` | Pass. Checks the cap, nods, cap back on. |
+| 5 | `05-leap.mp4` | Kling 3 Omni | `v7cDCRGOnkP48ZGJme54` | Pass (round 2). The one group shot, kept until the end as briefed. |
+| 6 | `06-title.mp4` | Kling 3 Omni | `VTt25TBriFjkedt61SA8` | Pass (round 2). |
 
-Rejected versions from rounds 1 and 2 are in `rejected/` with the reason in the filename.
+Veo failure mode to know: when a coin has to go into a container held low on a character, Veo drops it to the ground. It handled the pouch (twice) and the cap, but not the sling bag. Rejected Veo takes are in `shots-veo/rejected/`.
 
 ## Hopper beat, take two: the flick gag in three pinned shots
 

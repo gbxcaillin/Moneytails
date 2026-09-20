@@ -12,6 +12,7 @@
 ## Model selections (decided)
 - **Character stills / turnarounds:** Nano Banana Pro. Strongest at holding a reference across views. Backup: GPT Image 2. Avoid Flux/SDXL models for multi-view consistency.
 - **Character style setting:** Digital Art (or Vector art). Never Photorealistic; avoid Pixar/3D since series is flat 2D. Pixar is fallback only if Digital Art comes out too painterly.
+- **Pinned action shots (props changing hands, single character):** Veo 3.1 fast, image-to-video with start and end frames. Kling 3 Omni as fallback.
 - **Dialogue video (e.g. Kanga intro):** Kling 3.0 Omni via image-to-video from the approved still. Native dialogue + lip sync + holds 2D style. Backup: generate silent in Kling, add voice with OpenArt's separate Lip Sync tool + TTS for more voice control.
 
 ## Prompting conventions
@@ -28,7 +29,7 @@
 Video models cannot hold "object moves from A to B" through a single clip. Every single-shot attempt at Hopper's coin flick produced a second coin; the wombat's coin floated and shrank into his cap; Kanga and Maggie never touched theirs. The fix that works, every time so far:
 
 1. **Generate keyframe stills first**, chained from one base image with Nano Banana Pro image-to-image ("edit the first reference and keep everything else identical, change only X"). One still per state of the prop: before, in hand, in pouch, gone. Attach the base still first and the character sheet second; the service keeps only two references.
-2. **Shoot each state change as its own 3 to 4 second clip** with Kling image-to-video, passing the "before" still as `startFrame` and the "after" still as `endFrame`. Prompt the single action between them and say "exactly one coin" and "camera static".
+2. **Shoot each state change as its own 3 to 4 second clip** with Veo 3.1 image-to-video (fast, 720p, audio off, about 126 credits), passing the "before" still as `startFrame` and the "after" still as `endFrame`. Write the prompt as timed beats in seconds ("0 to 1 s ..., 1 to 2.5 s ..., 2.5 to 4 s ..."), one action per beat, and say "there is only ever one coin" and "the camera does not move". Veo won a head-to-head against Kling, PixVerse and Gemini on the opener (see assets/series/opener/README.md); Kling is the fallback when Veo drops a prop to the ground.
 3. **Keep every shot on the same camera side.** A closer shot is a push-in from the same angle, never a reverse. Crossing the line makes a bench or a character jump sides on the cut.
 4. **Assemble the shots end to end.** A beat may run 8 to 13 seconds this way; the brief allows it.
 
