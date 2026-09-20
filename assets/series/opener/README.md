@@ -1,5 +1,38 @@
 # Money Tails opener: "The Coin Trail" clips
 
+Round 5 (current). Rebuilt after the round-4 review: every character is now handled like Hopper, in short single-action shots pinned to a verified keyframe chain, with the coin's physical path spelled out in seconds. `opener-rough-assembly-r5.mp4` (56 s, silent) is the straight concat of the round-5 picks in order. Round-4 shots stay in `shots-veo/` for the beats that were not remade (Hopper insert and flick, wombat, group leap, title).
+
+## Round 5 picks
+
+| Beat | Shot | Model | historyId | Verdict |
+|---|---|---|---|---|
+| 1A | `shots-r5/1A-kanga-catch-v5-trim.mp4` | Veo 3.1 | `WCLdMJdWxrmetSlhNUdT` (v5, K1v4 to K2v3) | Pass, trimmed to 3.4 s. Coin falls beside her ear on the road side, caught in that paw at 1.2 s, held at shoulder height. Same paw the whole shot, other paw never lifts. The untrimmed tail morphs the coin away, hence the trim. |
+| 1B | `shots-r5/1B-kanga-pouch-closeup-v3.mp4` | Veo 3.1 | `D9Snq14rMZEy1dHfiv4v` (v3, K3v3 to K4v3) | Pass. Same-side push-in on the torso. Coin pushed fully into the pouch by 1 s, opening dark and empty, pat, glow swells. This replaces the old sting as the "coin goes in and stays in" beat, placed after the catch as briefed. |
+| 1C | `shots-r5/1C-kanga-hop-exit-v3.mp4` | Veo 3.1 | `ePi6I7LkbWZjtY8545b7` (v3, K5v2 to K6) | Pass. Pat, crouch, two full kangaroo hops out of frame right, legs and tail drawn throughout, ends on the empty street plate. v2 threw a phantom coin onto the road. |
+| 2A | `shots-r5/2A-maggie-snatch.mp4` | Veo 3.1 | `VOJa3ZlWIrgftk96OMIR` (M1v2 to M2) | Pass. Coin falls under gravity the whole way, snatched at 1 s just above the footpath, lands, stands with the coin in her beak. Concrete footpath throughout. |
+| 2B | `shots-r5/2B-maggie-bag-KLING.mp4` | Kling 3 Omni | `gzh8UF4y3UvCM7LavA0J` (M2 to M3b) | Pass on Kling. Head into the bag, coin gone, flap closed, head up, grin. Veo `CT2dHCiTAKeqg8HKIOv4` dropped the coin to the footpath, the fourth time it has done that on this beat. |
+| 2C | `shots-r5/2C-maggie-run-exit.mp4` | Veo 3.1 | `n0ocjeWFhLlSS5969Lq7` (M3b to M5) | Pass. Pats the closed bag, scampers out of frame right, ends on the empty footpath. No floorboards (the old M4 end frame had them, replaced by M5). |
+| 3A | `shots-r5/3A-hopper-guitar-KLING.mp4` | Kling 3 Omni | `KcsF2N5KKpVLeSuFYwOW` (S1 to S2v3) | Pass on Kling. Coin drops in, taps the hat, lands flat on the guitar body in his lap. One short path, never touches the bench or ground. Veo `euPLMEgURGTGz8owJZsv` put it on the road first; the bench-landing versions (Veo `NpWTypvI4w4iSELWUFhl`, `YsXQjXoxEDeBGGVyMeXD`) both bounced it to the ground before the bench. |
+| 3B | `shots-r5/3B-hopper-guitar-pickup.mp4` | Veo 3.1 | `nCzImbiA37iCFVf0jQh1` (S2v3 to S3w) | Pass. Pinches the coin off the guitar at 1 s, straight up to eye level, shrug. Never put down. Kling `DHAJe40U8Wm5uc0V6s6J` also passes, kept in `rejected/` as a spare. |
+| 3B insert | `shots-veo/3B-hopper-insert.mp4` | Veo 3.1 | `3QWKGOGgeNLXggH4kGgz` | Round 4, unchanged. |
+| 3C | `shots-veo/3C-hopper-flick-leap.mp4` | Veo 3.1 | `zqddDKKwvOXnKXMYWWHZ` | Round 4, unchanged. |
+| 4A, 4B | `shots-veo/4A-wombat-catch.mp4`, `4B-wombat-cap.mp4` | Veo 3.1 | `oYcbsQ9GkZ53DtpUEoyK`, `hsKwzWDiGjbanXxQzR6J` | Round 4, unchanged. |
+| 5, 6 | `05-leap.mp4`, `06-title.mp4` | Kling 3 Omni | `v7cDCRGOnkP48ZGJme54`, `VTt25TBriFjkedt61SA8` | Round 2, unchanged. Group shot stays last. |
+
+Round-5 keyframes (all Nano Banana Pro image2image, base still first, character sheet second):
+Kanga K1v4 coin falling beside her ear on the road side `GcyAoNIaaodbNsFukgfV`, K2v3 coin in the road-side paw `AtSbg8Km0aMFV4WcGylq`, K3v3 close-up coin over the pouch `ZuMksXft4fhYkf83pOAL`, K4v3 close-up paw flat, pouch glowing, no coin `vmJEMXdbSnEHM6aj8BQj`, K5v2 wide, paw on glowing pouch, no coin `C7nqDY1ga8VF7cRZLQEC`, K6 empty street `qNDuFv6GCR0hkhjiuWS0`. Maggie M1v2 coin falling with motion lines `r9FeRtdRXf1tLOOyjt15`, M3b head up, beak empty, flap closed `eyZv1e7rUu3XLlUzckq8`, M5 empty footpath `gUZHiOM86yASasSMlipS`. Hopper S2v3 coin on the guitar body `rQWAAXlzgDsmnk7EPcfo`. The left-paw Kanga chain (K1v2 `seS3FThZHu9VnLKuITa2`, K2v2 `b699DvWE5P6nGNI9wVWi`, K3v2, K4v2, K5) was abandoned: with the coin on the shop-window side Veo and Kling both reached across with the wrong paw or swapped hands; putting the coin on the open road side fixed it in one take.
+
+What round 5 changed in the method (also in `docs/workflow.md`):
+1. View every keyframe chain at full size before shooting and reject any drift (the round-4 M4 floorboards and K3 half-in coin were the cause of two of the glitches).
+2. Give the coin a physical cause and a short path: it falls under gravity with motion lines, and lands on the nearest large flat surface (guitar body, not the bench seat behind him).
+3. Put the catching paw on the open side of the character, away from the background wall, so the model does not have to reach across the body.
+4. Props end fully inside or fully gone, never half in. Exit shots end on an empty plate with the character out of frame, never mid-air.
+5. Trim a shot at the action endpoint rather than re-rolling it when only the final tween drifts.
+
+Rejected round-5 takes are in `shots-r5/rejected/` with their versions in the filename.
+
+## Round 4 (superseded)
+
 Round 4. Every character beat is built from chained keyframe stills (`keyframes/`, `hopper-keyframes/`) and 4 second Veo 3.1 shots pinned to a start and end frame, with a timed single-action prompt (`shots-veo/`). Kling 3 Omni versions of the same shots are kept in `shots/` and `hopper-shots/` for reference. Method in `docs/workflow.md`. `opener-rough-assembly.mp4` is a straight concat of every shot in order, silent, for review only; the real cut trims to about 25 s.
 
 | Beat | Shot | Model | historyId | Verdict |

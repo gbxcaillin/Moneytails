@@ -35,6 +35,9 @@ Video models cannot hold "object moves from A to B" through a single clip. Every
 
 A second model does not fix this. Seedance 2.0 failed the same single-shot gag the same way.
 
+
+Round-5 additions to the rule: view the whole keyframe chain at full size before shooting and reject any drift; give the prop a physical cause (falls under gravity, motion lines) and the shortest path to the nearest large flat surface; put the catching hand on the character's open side, away from any wall; end every prop state fully inside or fully gone, and every exit shot on an empty plate; if only the last few frames drift, trim at the action endpoint instead of re-rolling.
+
 ## Credit management
 - Explainer segments: stills with animated diagrams only; save video credits for character action.
 - Multi-character wides drift most; budget extra attempts or stage as alternating close-ups.
