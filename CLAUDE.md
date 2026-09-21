@@ -16,12 +16,12 @@ A YouTube cartoon series using AI-generated animated videos of anthropomorphic a
 - Structure: 10–15s cold open hook → setup → the hit (problem) → the lesson (explainer space) → the turn → payoff + tag/teaser
 - Every episode ends with a 3-line end card: (1) one-sentence rule, (2) one action to do today, (3) one number to aim for
 - Numbers shown on screen are deliberately ordinary ($640 repair, $40 rent rise) so adults recognise them
-- Screen time rule: the idea gets the frame. Character-only beats run 2 to 4 seconds; about two thirds of the runtime shows the concept itself (money moving, the pouch, the pay packet, balances, the explainer space). Gags are welcome with no quota, but each must either develop a character's idiosyncrasy or be about the episode's theme; never filler. Full rule in docs/series-bible.md.
+- Screen time rule: the idea gets the frame. Character-only beats run 2 to 4 seconds; about two thirds of the runtime shows the concept itself (money moving, the pouch, the pie, balances, the explainer space). Gags are welcome with no quota, but each must either develop a character's idiosyncrasy or be about the episode's theme; never filler. Full rule in docs/series-bible.md.
 
 ## Series brand devices
 - The glowing gold pouch = savings. Characters who "get it" earn their own glow on a personal item.
 - Bear & bull recurring cameos as market-mood running gag.
-- Reusable "pay packet sliced up" animation for budgeting/super episodes.
+- Reusable "pie sliced up" animation for budgeting/super episodes: a golden pie is your pay, and each slice is a category. Pay yourself first means the savings slice lifts into the glowing pouch before the rest is divided. (Replaced the earlier "pay packet sliced" device, which read as a paper envelope; the pie is warmer and keeps the pouch the hero.)
 
 ## Current state
 - Episode 1 "The Pouch" (pay yourself first / emergency fund): script complete (episodes/ep01/script.md), OpenArt prompt pack complete (episodes/ep01/openart-prompts.md)

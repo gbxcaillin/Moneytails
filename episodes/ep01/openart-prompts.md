@@ -110,9 +110,9 @@ Paste this block as the shot list. Attach saved characters KANGA, MAGGIE, HOPPER
 11. MAGGIE at home on a beanbag staring at her phone, a calendar graphic floating above her with repeating payment markers. Medium.
 12. KANGA at her kitchen table reading a letter, relaxed shrug, patting her glowing pouch. Medium.
 13. ENV2 verandah, evening. HOPPER and MAGGIE slumped in chairs looking miserable, KANGA leaning on the railing with a mug, calm. Wide.
-14. ENV3 explainer space. KANGA standing beside a floating pay packet diagram. Medium.
-15. ENV3. Large pay packet being sliced into segments, a tiny crumb rolling off the end. Flat graphic, no characters.
-16. ENV3. Same pay packet, first slice peeling off and dropping into a glowing pouch, remaining slices dividing after. Flat graphic.
+14. ENV3 explainer space. KANGA standing beside a floating golden-pie diagram (pie sliced to the bills). Medium.
+15. ENV3. Large golden pie being sliced into wedges, a tiny crumb rolling off the end. Flat graphic, no characters.
+16. ENV3. Same golden pie, first wedge peeling off and dropping into a glowing pouch, remaining wedges dividing after. Flat graphic.
 17. ENV3. KANGA gesturing at a floating phone showing a simple toggle and two account tiles. Medium.
 18. ENV3. A pouch filling up in three stages shown left to right, small, medium, full. Flat graphic.
 19. ENV3. MAGGIE looking guilty, a calendar graphic overlay fading across her face. Close-up.

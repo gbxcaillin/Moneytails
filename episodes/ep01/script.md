@@ -108,12 +108,12 @@ Because the freak-out already happened. Three years ago. And then I built a pouc
 **KANGA:**
 Most people pay everyone else first. Rent, phone, food, fun. Then whatever's left, they save. And whatever's left is usually nothing.
 
-**SHOT 13** — Animation: a pay packet gets chopped into slices labelled Rent, Food, Fun, Subscriptions. A tiny crumb labelled "Savings" falls off the end and rolls away.
+**SHOT 13** — Animation: a golden pie (your pay) is sliced into wedges that go to Rent, Food, Fun, Subscriptions. A tiny crumb, all that is left for Savings, falls off the end and rolls away. (Labels added in the edit, not rendered.)
 
 **KANGA:**
 Flip it. Pay yourself first. Savings becomes a bill you owe yourself, and it comes out the second the money lands. Before you even see it.
 
-**SHOT 14** — Animation: same pay packet. First slice comes off labelled "Me — 10%", goes straight into a pouch. The rest gets divided as before.
+**SHOT 14** — Animation: same golden pie. The first wedge, "Me, 10%", lifts off gold and goes straight into the glowing pouch. The rest gets divided as before. (Labels added in the edit, not rendered.)
 
 **MAGGIE:**
 But I'd miss it.
@@ -208,7 +208,7 @@ Next time: Maggie gets a credit card. It goes about as well as you'd think.
 
 - **Voice casting:** Kanga should never sound smug. Her lines work because she's relaxed, not superior.
 - **Recurring visual:** The glowing pouch is the series' brand. Every character who "gets it" earns their own glow.
-- **Reusable asset:** The "pay packet sliced up" animation (Shots 13–14) can be reused in the budgeting and super episodes.
+- **Reusable asset:** The "pie sliced up" animation (Shots 13–14) can be reused in the budgeting and super episodes.
 - **Numbers shown on screen** ($640 repair, $40 rent rise, $1,000 starter goal) are deliberately ordinary so adult viewers recognise them.
 - **Layering check:** Kids follow the story and the pouch. Young adults get the BNPL and automation beats. Adults get the 3-month target and the high-interest saver tip.
 - **Screen time rule (applies to every shot when rendering):** character-only beats run 2 to 4 seconds. Shot 1 renders at about 8 s, not 12. Shot 5 (the montage) is about what the money does, not the shopping; show each tap taking a slice off a balance. Shots 4, 6, 13, 14 and the explainer space get the most screen time in the episode.
