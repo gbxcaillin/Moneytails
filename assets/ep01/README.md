@@ -63,6 +63,17 @@ Method: one Seedance 2.5 element2video job per 30 s chunk, script-style prompt w
 | 12 Hopper takeaway | `clips/clip12-hopper-takeaway-480p.mp4` | `Vz5L8m0WMZ6jOfKWjtyf` (v2) | 5 s | Pass. v1 shrank the whole bar; v2 describes a fixed outline with a fill that drains, and that is what renders: chips take a big chunk, each coin a little more, down to a sliver. |
 | 13 Kanga coffee | `clips/clip13-kanga-coffee-480p.mp4` | `nYLC6UUeapEkRc0moQOK` (v2) | 5 s | Pass. v1 put bread slices inside the bar and barely moved it; v2 is a fixed outline whose purple fill drops one notch, gold pouch tile outside it. |
 
+Running assembly of clips 01 to 22 (script shots 1 to 11, about 1:55): `clips/ep01-clips01-22-assembled-480p.mp4`. Batch 3 (clips 14 to 22) cost about 3,400 credits including two clip 14 retakes and two stills.
+
 Running assembly of clips 01 to 13 (script shots 1 to 5, about 1:02): `clips/ep01-clips01-13-assembled-480p.mp4`. Batch cost about 3,300 credits, plus about 1,600 for the five retakes. Rejected takes in `clips/rejected/`. Rule added to docs/workflow.md: insert and point-of-view shots start from a checked still.
+| 14 balance cards | `clips/clip14-balance-cards-480p.mp4` | `vAEqdJb4HVWzPHv2n20h` (v3, image2video) | 6 s | Pass. v1 and v2 from text prompts with panel 8 attached rendered tiny cards whose meters never moved. v3 starts from a text2image still (`keyframes/clip14-cards-full.png`, `erLwgeTR35VscDZxJ6db`): three big cards with tall full meters. Orange drains to a fifth and the red strip blinks, green drains to a sliver, purple settles at two thirds, gold pouch card slides up. |
+| 15 envelopes | `clips/clip15-envelopes-480p.mp4` | `P65UT7vcGgVoNGMEMySE` | 6 s, landlord VO | Pass. Clouds roll in from the left, light dims, three envelopes land left to right. Landlord dull and flat. |
+| 16 scooter dies | `clips/clip16-scooter-dies-480p.mp4` | `P6YAGulCUfVaatrdiuWJ` | 6 s | Pass. Rides in, coughs smoke, dies, tips over, Hopper nudges it. |
+| 17 wombat clipboard | `clips/clip17-wombat-clipboard-480p.mp4` | `HlkMmQCxjB14lfgqmki1` | 5 s | Pass. Wombat waddles in without looking up, crouches, one tap, puff of smoke, clipboard up. |
+| 18 Hopper guitar | `clips/clip18-hopper-guitar-480p.mp4` | `FR3ZCF5RlaI28UCklIVb` | 5 s, Hopper voice ref | Pass. Peers at the clipboard, swings the guitar round and offers it, wombat shrugs. |
+| 19 Maggie calendar | `clips/clip19-maggie-calendar-480p.mp4` | `ZohC7YOeUirVHzkf64G7` | 6 s | Pass. Beanbag, phone in one wing tip, calendar fades in and the orange dots pop down one column. |
+| 20 Kanga letter | `clips/clip20-kanga-letter-480p.mp4` | `afxVakTXvvoE73mufWfC` | 5 s, Kanga voice ref | Pass. Reads, shrugs, folds the letter, pats the pouch, glow. |
+| 21 transfer back | `clips/clip21-transfer-back-480p.mp4` | `djpdjlXUHEYmGwB3khoo` (image2video) | 4 s | Pass first time using the still-first recipe: start frame `keyframes/clip21-pov-pouch-full.png` (`jZ8zRmO7yuAHZbX6ITyd`, edited from the clip 08 still). Press, coins arc from the pouch tile back to the left tile, two paws throughout. |
+| 22 verandah | `clips/clip22-verandah-freaking-480p.mp4` | `r9v5Q6FEaNJKMgbv6fal` | 5 s, Hopper voice ref | Pass. Hopper and Maggie slumped, Kanga sips at the railing, Hopper lifts his head for the line. Hopper is small at frame left; fine for a wide. |
 
 Clips 01 and 02 cut together: `clips/clips01-02-assembled-480p.mp4` (10 s). Compare with the 8 s shot 1 inside `video/chunk01-draft-480p-v3.mp4`: same beats, but every beat is now legible and in order.
