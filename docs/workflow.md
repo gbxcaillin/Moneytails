@@ -74,3 +74,13 @@ A 30 s chunk with several shots and several lines gives the model too many direc
 - **Furniture belongs to the plate.** Place benches, counters and letterboxes against something in the environment plate (the shopfront, the kerb, the window) and say "on the footpath, with the road behind", never just "on the street".
 
 The 30 s single-pass method stays for the opener, where there is no dialogue and the beats are all one gag each.
+
+### Prompt brief shape (from the prompt-optimizer skill, applied from EP01 clip 33)
+
+The repo carries the prompt-optimizer skill at `.claude/skills/prompt-optimizer/` with per-model references. Use it whenever a prompt is written for OpenArt. The parts that changed our clip prompts:
+
+- **Seedance clips are director's briefs in eight labelled parts:** FORMAT (style line), SUBJECT (who, "keeps exactly the design in image N", one job per reference), ENVIRONMENT (which plate, light), CAMERA (one setup, "the camera does not move"), ACTION written as cause then reaction with a bit of physics ("because the tap lands, the sparkle bursts and his eyebrows go up"), TIMING (seconds for each beat, then "Nothing else happens"), AUDIO (voice spec with the audio reference, lip synced line in quotes, sound effects, bed), CONSTRAINTS (positives first: "exactly two wings", "stable proportions", then the no-text line). Present tense throughout.
+- **Each reference gets one stated job.** "Image 3 is the storyboard for this shot and sets the pose only" stops a panel from also setting scale or palette.
+- **Negatives become positives where possible.** Nano Banana Pro and the Seedance form have no negative field, so "blank plain shapes" and "stays a wing" carry the weight; the explicit no-text line stays because it has worked every time.
+- **Two-still bracketing for graphics that change state.** For a meter or diagram that fills across two clips, make the empty, part-filled and full stills as one text2image plus two image2image edits, then run each clip image2video with `startFrame` on one still and `endFrame` on the next, so the second clip starts exactly where the first ended.
+- **Nano Banana Pro stills stay narrative paragraphs**, materials and layout described in prose, no keyword lists and no quality tags.
