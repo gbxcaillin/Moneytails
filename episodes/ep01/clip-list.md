@@ -19,7 +19,7 @@ One complex event (C) or two simple events (S+S) per clip. One camera setup, no 
 | 13 | 5 | Kanga walks with coffee and bread, purple bar loses a thin slice, gold pouch tile full beside it | C | 5 s | Kanga, panel 7 | none |
 | 14 | 6 | Three balance cards, fill levels settle, red strip pulses on orange, pouch card slides up behind purple | C | 6 s | panel 8 | none |
 | 15 | 7 | Grey clouds roll over the street, three envelopes thunk into three letterboxes | C | 6 s | panel 9, ENV1 | Landlord VO "Please be advised your rent will increase by forty dollars per week, effective from next month." |
-| 16 | 8 | Hopper drives from the horizon toward the foreground, scooter coughs, dies in black smoke, tips onto its side, he and the scooter stay down | C | 6 s | Hopper, ENV4, panel 10 | none |
+| 16 | 8 | Hopper drives from the horizon toward the foreground, scooter coughs, dies in black smoke, tips onto its side, he spills off to the LEFT of the scooter and both stay down | C | 6 s | Hopper, ENV4, panel 10 | none |
 | 16b | 8 | Transition: Hopper pushes up off the road to standing while the wombat walks in and crouches at the fallen scooter | C | 5 s | Hopper, Wombat, ENV4, start+end frames | none |
 | 17 | 8 | The scooter still on its side, wombat taps it, holds up the clipboard to a dismayed Hopper | C | 5 s | Wombat, Hopper, ENV4, still (fallen scooter) | none |
 | 18 | 8 | Hopper looks at the clipboard, holds up his guitar | S | 5 s | Hopper, Wombat, ENV4 | Hopper "Six hundred and... mate, I've got forty dollars and a guitar." |
