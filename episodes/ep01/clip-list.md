@@ -19,8 +19,8 @@ One complex event (C) or two simple events (S+S) per clip. One camera setup, no 
 | 13 | 5 | Kanga walks with coffee and bread, purple bar loses a thin slice, gold pouch tile full beside it | C | 5 s | Kanga, panel 7 | none |
 | 14 | 6 | Three balance cards, fill levels settle, red strip pulses on orange, pouch card slides up behind purple | C | 6 s | panel 8 | none |
 | 15 | 7 | Grey clouds roll over the street, three envelopes thunk into three letterboxes | C | 6 s | panel 9, ENV1 | Landlord VO "Please be advised your rent will increase by forty dollars per week, effective from next month." |
-| 16 | 8 | Hopper rides in forwards from the left, scooter coughs, dies, tips over, he and the scooter stay down | C | 6 s | Hopper, ENV4, panel 10 | none |
-| 17 | 8 | Wombat waddles in without looking up, taps the scooter, holds up the clipboard | C | 5 s | Wombat, Hopper, ENV4, panel 10 | none |
+| 16 | 8 | Hopper drives from the horizon toward the foreground, scooter coughs, dies in black smoke, tips onto its side, he and the scooter stay down | C | 6 s | Hopper, ENV4, panel 10 | none |
+| 17 | 8 | The scooter still on its side, wombat waddles in, taps it, holds up the clipboard to a dismayed Hopper | C | 5 s | Wombat, Hopper, ENV4, still (fallen scooter) | none |
 | 18 | 8 | Hopper looks at the clipboard, holds up his guitar | S | 5 s | Hopper, Wombat, ENV4 | Hopper "Six hundred and... mate, I've got forty dollars and a guitar." |
 | 19 | 9 | Maggie on the beanbag staring at her phone, calendar with repeating markers filling the screen | C | 6 s | Maggie, panel 11 | Maggie "I've got money! I just... don't have it yet. It's already spoken for." |
 | 20 | 10 | Kanga in her kitchen reads the letter, shrugs, pats the pouch, it glows | C | 5 s | Kanga, panel 12, voice | Kanga "That's what you're for, mate." |
