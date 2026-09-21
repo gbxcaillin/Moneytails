@@ -75,5 +75,17 @@ Running assembly of clips 01 to 13 (script shots 1 to 5, about 1:02): `clips/ep0
 | 20 Kanga letter | `clips/clip20-kanga-letter-480p.mp4` | `afxVakTXvvoE73mufWfC` | 5 s, Kanga voice ref | Pass. Reads, shrugs, folds the letter, pats the pouch, glow. |
 | 21 transfer back | `clips/clip21-transfer-back-480p.mp4` | `djpdjlXUHEYmGwB3khoo` (image2video) | 4 s | Pass first time using the still-first recipe: start frame `keyframes/clip21-pov-pouch-full.png` (`jZ8zRmO7yuAHZbX6ITyd`, edited from the clip 08 still). Press, coins arc from the pouch tile back to the left tile, two paws throughout. |
 | 22 verandah | `clips/clip22-verandah-freaking-480p.mp4` | `r9v5Q6FEaNJKMgbv6fal` | 5 s, Hopper voice ref | Pass. Hopper and Maggie slumped, Kanga sips at the railing, Hopper lifts his head for the line. Hopper is small at frame left; fine for a wide. |
+| 23 Kanga freak-out | `clips/clip23-kanga-freakout-480p.mp4` | `KRk2fJSB2QC2sFNMoYWd` | 6 s, Kanga voice | Pass. Sip, lower the mug, shrug, paw on the pouch, glow. |
+| 24 explainer intro | `clips/clip24-explainer-intro-480p.mp4` | `FL7B3FaYuqBdBQTwnTqh` | 8 s, Kanga voice | Pass. Walks in from the right, counts on fingers, shrug. Left two thirds empty for the diagram cut-ins. |
+| 25 pay packet crumb | `clips/clip25-paypacket-crumb-480p.mp4` | `Icfo8wWlwhX8hSTXM6ap` (image2video) | 6 s | Pass first time from the still `keyframes/clip25-paypacket.png` (`2b7Mmp2APIM6DxIshBIm`, text2image, no panel attached). A blade slides down each line, four pieces, the sliver tips and rolls off. |
+| 26 flip it | `clips/clip26-flip-it-480p.mp4` | `9qIYMR9MNhaDnd94ymAf` | 7 s, Kanga voice | Pass. Paw flip, pouch tap, gesture. |
+| 27 pay packet to pouch | `clips/clip27-paypacket-pouch-480p.mp4` | `gxf7c6DYoYMpXo7hJN7k` (image2video) | 6 s | Pass first time from the same still. Left slice cut first, turns gold, drops into a pouch that rises at bottom left and glows, then the rest divides. The gold slice reads as a coin, which is fine. |
+| 28 miss it | `clips/clip28-miss-it-480p.mp4` | `pbXjwyHsKrNcHsZvQVdn` | 8 s, Kanga voice | Pass. Maggie hugs the bag with two wings, Kanga holds up two fingers and waves it away. |
+| 29 automatic | `clips/clip29-automatic-480p.mp4` | `kVX662Hr6YbXap2q5DNk` | 5 s, Kanga voice | Pass. |
+| 31 separate account | `clips/clip31-separate-account-480p.mp4` | `clBjrGNWwg0XJbwr6YPi` | 8 s, Kanga voice | Pass. Paw out, growing gesture, covers her eyes and peeks. |
+| 30 bank app toggle | `clips/clip30-bankapp-toggle-480p.mp4` | `s648EOSmiScmHo9GiwJj` (image2video) | 6 s, Kanga VO | Pass first time from the still `keyframes/clip30-bankapp-toggle.png` (`AXmkvHuWOfakDiKK5t9h`, edited from the clip 08 still). Toggle slides and turns green, three fields fill with grey bars, tick pops. Two paws throughout. |
+| 32 Hopper how much | `clips/clip32-hopper-how-much-480p.mp4` | `tG4vwURpIZ9oa4M5DuAi` | 4 s, Hopper voice | Pass. Hand up like a kid in class. |
+
+Running assembly of clips 01 to 32 (script shots 1 to 15, about 2:55): `clips/ep01-clips01-32-assembled-480p.mp4`. Batch 4 (clips 23 to 32) passed ten for ten, no retakes, three stills first. About 3,600 credits.
 
 Clips 01 and 02 cut together: `clips/clips01-02-assembled-480p.mp4` (10 s). Compare with the 8 s shot 1 inside `video/chunk01-draft-480p-v3.mp4`: same beats, but every beat is now legible and in order.
